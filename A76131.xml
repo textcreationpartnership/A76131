@@ -1,0 +1,661 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of self-posing, or, a Christians duty of putting cases of difficulty to himself Being the summe of some sermons preached at Upton upon Seavern, in the county of Worcester. By B. Baxter, late minister of the gospel there, but now removed.</title>
+            <author>Baxter, Benjamin, Preacher of the Gospel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 51 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76131</idno>
+            <idno type="STC">Wing B1170A</idno>
+            <idno type="STC">ESTC R230135</idno>
+            <idno type="EEBO-CITATION">99896195</idno>
+            <idno type="PROQUEST">99896195</idno>
+            <idno type="VID">153819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2381:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of self-posing, or, a Christians duty of putting cases of difficulty to himself Being the summe of some sermons preached at Upton upon Seavern, in the county of Worcester. By B. Baxter, late minister of the gospel there, but now removed.</title>
+                  <author>Baxter, Benjamin, Preacher of the Gospel.</author>
+               </titleStmt>
+               <extent>[30], 71, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Peter Parker, and are to be sold at his shop under Creed-Church near Aldgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Dr. Williams' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spiritual life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153819:1" rendition="simple:additions"/>
+            <p>The DOCTRINE OF Self-poſing, OR, A <hi>Chriſtians Duty</hi> of put<g ref="char:EOLhyphen"/>ing Caſes of <hi>Difficulty</hi> to himſelf.</p>
+            <p>Being the Summe of ſome Sermons Preached at <hi>
+                  <g ref="char:V">Ʋ</g>pton</hi> upon <hi>Seavern,</hi> in the County of <hi>Worceſter.</hi>
+            </p>
+            <p>By <hi>B. Baxter,</hi> late Miniſter of the Goſpel there, but now removed.</p>
+            <q>
+               <bibl>
+                  <hi>Acts 20.24.</hi>
+               </bibl>
+               <p>But none of theſe things move me.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 4.4.</hi>
+               </bibl>
+               <p>Commune with your own hearts upon your Beds.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Peter Parker,</hi> and are to be ſold at his Shop under <hi>Creed-Church</hi> near <hi>Aldgate.</hi> 1666.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153819:2"/>
+            <pb facs="tcp:153819:2"/>
+            <head>To my much honoured Brother, Mr. <hi>Anthony Nicholetts</hi> of <hi>London,</hi> Merchant.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Pſalmiſt ſpeaketh of thoſe that go down to the Sea in Ships, that they not only ſee the Works of the Lord, and his Wonders in the Deep, <hi>(Pſalm 107.23, 24.)</hi> but alſo that they meet with dangers and difficulties in that Deep. As they ſee ſomthing that cauſeth
+<pb facs="tcp:153819:3"/>Wonder and admiration, ſo alſo ſomething that cauſeth Fear and Conſternation. <hi>St Paul</hi> ſpeakes of his perils in the Sea. And as it was the ſay<g ref="char:EOLhyphen"/>ing of one, <hi>Qui neſcit orare, diſcat navigare,</hi> thereby in<g ref="char:EOLhyphen"/>timating that at Sea men ſhall meet with ſuch dangers and difficulties that will put them upon crying every man to his God, as it did thoſe Mari<g ref="char:EOLhyphen"/>ners, <hi>Jon. 1.5.</hi> Dangers I know you meet with at Sea, and although you are ſafely arri<g ref="char:EOLhyphen"/>ved here, yet dangers and diffi<g ref="char:EOLhyphen"/>culties are to be expected. You and all Chriſtians (while on this ſide Heaven) are ſtill upon a Sea; ſo is this World ſaid to be <hi>(Rev. 15.9.)
+<pb facs="tcp:153819:3"/>a Sea of Glaſs mingled with Fire.</hi>
+            </p>
+            <p>Sir, I preſent you with this ſmall Tract, the Scope of which, is, To teach you and all Chriſtians, the Art of bearing troubles without much troubling of themſelves. It is only to ſhew us (if we muſt fall into trouble) how to make our fall the eaſier, viz. Forward, and not back<g ref="char:EOLhyphen"/>ward, into troubles foreſeen, and not into troubles that were not fore-thought. And this is by putting caſes of difficulty to our ſelves, till God bring us to our deſi<g ref="char:EOLhyphen"/>red Haven, which is Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <pb facs="tcp:153819:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153819:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153819:5"/>
+            <pb facs="tcp:153819:5"/>
+            <pb facs="tcp:153819:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153819:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153819:7"/>
+            <p>So wiſhing you all Happi<g ref="char:EOLhyphen"/>neſs Temporal, but eſpecially Spiritual and Eternal,</p>
+            <closer>
+               <signed>I am <hi>Your moſt affecti<g ref="char:EOLhyphen"/>onate Brother,</hi> Ben. Baxter.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153819:7"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THe Reverend Author, (and my ſpecial friend and lately my neigh<g ref="char:EOLhyphen"/>bour Miniſter in that Coun<g ref="char:EOLhyphen"/>try where we are both caſt out) here commendeth to thee a duty ſo agreeable to thy Rational Nature, and thy chriſtian profeſſion, and ſo much tending to thy ſafety, peace and comfort, that I may ſuppoſe it hath thine appro<g ref="char:EOLhyphen"/>bation; and therefore thou art the more to be blamed if it have not thy practiſe. Fore<g ref="char:EOLhyphen"/>ſight by Reaſon upon natural proof, is it that differenceth a wiſe man from a fool, if not a man from a brute: Foreſight
+<pb facs="tcp:153819:8"/>by Faith upon ſupernatural-Revelation, is much of the difference between a Chriſti<g ref="char:EOLhyphen"/>an and an Infidel. He that fore<g ref="char:EOLhyphen"/>ſeeth not the good that is at<g ref="char:EOLhyphen"/>taineable, will never ſeek it; and he that foreſeeth not the evil that may come, will not prevent it; and he that fore<g ref="char:EOLhyphen"/>ſeeth not the evil that will come will not be prepared ſo to entertain it, as may pre<g ref="char:EOLhyphen"/>ſerve him from the malignity and turn it to his advantage. Moſt of our ſufferings are matter of great temptation to us, and call us to great du<g ref="char:EOLhyphen"/>ty; and both require ſerious preparation.</p>
+            <p>There is ſcarce any Temp<g ref="char:EOLhyphen"/>tation that prevaileth notably againſt us, but upon review
+<pb facs="tcp:153819:8"/>we may obſerve where our cautelous foreſight might have prevented it. And ſcarce a duty that we neglect, but we are forced upon review, to blame our neglect of previſi<g ref="char:EOLhyphen"/>on and preparation. We ſel<g ref="char:EOLhyphen"/>dome do any great work a<g ref="char:EOLhyphen"/>right upon the ſudden; and ſeldome well eſcape an ene<g ref="char:EOLhyphen"/>my that ſurprizeth us unex<g ref="char:EOLhyphen"/>pectedly; or a ſnare that we did not foreſee or fear. But we muſt ſee that we put caſes but as they are, and that we pretend not to foreſee that which is no the object of foreſight, and that we under<g ref="char:EOLhyphen"/>ſtand the right uſe of ſuch pre-viſion. There are ſome things that wil <hi>certainly</hi> come to paſs, but are <hi>not neceſſary</hi>
+               <pb facs="tcp:153819:9"/>to be foreſeen, becauſe they concern us not, or call not for our <hi>duty.</hi> There are ſome things that will certainly come to paſs, and the fore<g ref="char:EOLhyphen"/>ſight of them, <hi>is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation;</hi> as the re<g ref="char:EOLhyphen"/>ſurrection of the body, the day of Judgment, the ſalvati<g ref="char:EOLhyphen"/>on of the ſanctified, and the damnation of all that dye in an unſanctified ſtate. Here are the great caſes to be put; Am I ready to dye? or to give up my Accounts? What if this night my ſoul be required? Am I aſſured of my ſalvation, or not? And here are the ne<g ref="char:EOLhyphen"/>ceſſary Reſolutions to be made, as ever we will ſee the Lord with comfort, <hi>viz.</hi> I am reſolved in the ſtrength of
+<pb facs="tcp:153819:9"/>grace to be a new Creature, and to redeem my time, and ſpare no care or pains or coſt for my ſalvation. For want of putting theſe certain neceſſa<g ref="char:EOLhyphen"/>ry caſes, and taking up theſe neceſſary reſolutions, it is that ſo many thouſands periſh. But there are alſo ſome things that are <hi>to us</hi> of <hi>uncertain futuriti<g ref="char:EOLhyphen"/>on,</hi> that are but <hi>poſſible</hi> or <hi>pro<g ref="char:EOLhyphen"/>bable</hi> as to our foreknowledg: To conclude that ſuch things <hi>will come to paſs,</hi> is <hi>error</hi> and not <hi>duty;</hi> but to conclude that they <hi>may come to paſs,</hi> or that they <hi>are likely</hi> ſo to do, is our duty in caſe they be matters that call for our pre-viſion &amp; preparation. A great deal of miſcarriage is in the World, by the falſe ſtating of ſuch
+<pb facs="tcp:153819:10"/>caſes: ſome, that have not light enough to be acquainted with their darkneſs, nor humility enough to ſave them from o<g ref="char:EOLhyphen"/>vervaluing their underſtand<g ref="char:EOLhyphen"/>ings or conceits, are putting their uncertain Expoſitions of ſome obſcure Scripture Pro<g ref="char:EOLhyphen"/>pheſies (of <hi>Daniel,</hi> the <hi>Reve<g ref="char:EOLhyphen"/>lation,</hi> &amp;c.) among the Arti<g ref="char:EOLhyphen"/>cles of their faith; and thence taking up reſolutions for pra<g ref="char:EOLhyphen"/>ctiſe, and taking the rule for the ordering of their other e<g ref="char:EOLhyphen"/>pinions and their lives; and ſo they muſt find at laſt that they have erred in that expoſition, at the dear rate of finding al<g ref="char:EOLhyphen"/>ſo that thence they have err'd in much of the greateſt actions of their Converſations Some are preſuming groundleſly to
+<pb facs="tcp:153819:10"/>conclude, that the times will be good, or that they will be <hi>evil,</hi> that we ſhall have <hi>proſ<g ref="char:EOLhyphen"/>perity,</hi> or we ſhall have <hi>perſe<g ref="char:EOLhyphen"/>cution,</hi> and how long theſe are like to continue, and what will come next; what party will ſtand, and what will riſe, and what will fall; and ac<g ref="char:EOLhyphen"/>cordingly they reſolve and practiſe in the worſhip of God and in much of their deport<g ref="char:EOLhyphen"/>ment unto men: When <hi>Faith ſhould</hi> tell them, and <hi>late ex<g ref="char:EOLhyphen"/>perience will</hi> tell them, if faith do not, that it were wiſer not to be wiſe above what is writ<g ref="char:EOLhyphen"/>ten, nor to feign our uncer<g ref="char:EOLhyphen"/>tain conjectures to be cer<g ref="char:EOLhyphen"/>tainties, nor to be too buſie a<g ref="char:EOLhyphen"/>bout Gods part (what ſhall or ſhall not come to paſs) when
+<pb facs="tcp:153819:11"/>we ſhould be employed about our own part, even our cer<g ref="char:EOLhyphen"/>tain duty, and ſhould leave matters of future event more to God: and that things re<g ref="char:EOLhyphen"/>vealed belong to us, &amp; ſecret things are reſerved unto him, <hi>Deut.</hi> 29.29. And that the Law and Teſtimony are indeed our Rules.</p>
+            <p>Some out of melancholy fearfulneſs or unbeleif, are al<g ref="char:EOLhyphen"/>wayes perplexing themſelves with ſuppoſitions of things that will never come to paſs; and ſaying, what if this ſhould befall me, and what if that ſhould overtake me? what if this friend ſhould ſuffer? or the other friend be taken from me? what if I be caſt into poverty, or priſon? or called
+<pb facs="tcp:153819:11"/>to bear witneſs to the Cauſe of Chriſt? or to ſuffer death for him? And they put ſuch eaſes only to diſquiet and tor<g ref="char:EOLhyphen"/>ment themſelves, and gratifie their miſ-giving and diſtruſt<g ref="char:EOLhyphen"/>full hearts; and not quietly to reſolve &amp; make their pre<g ref="char:EOLhyphen"/>paration. And thus they fill their minds and lives with ſelf-created troubles, that are made of nothing but ſpun out of their own depraved imagi<g ref="char:EOLhyphen"/>nations: And if they can but ſay ſuch an evil is <hi>poſſible,</hi> or that one of a thouſand or ten thouſand hath been overta<g ref="char:EOLhyphen"/>ken by the like, they afflict themſelvs more about it than they ſhould do if it were <hi>pro<g ref="char:EOLhyphen"/>bable;</hi> and if it be <hi>probable,</hi> they are more troubled about
+<pb facs="tcp:153819:12"/>it than they ſhould be if it were <hi>certain.</hi> And when experience hath told them that moſt of their <hi>fears</hi> are from vaine imagination, and few things that they feared come to paſs, yet take they no warning, &amp; be not aſhamed that they have ſo long tormented themſelves with dreames, but goe on as if they had never had experience of their own miſtakes. This is not the <hi>putting of caſes,</hi> that the Reverend Author here inviteth you to.</p>
+            <p>But there are too many that err on the contrary, (more dangerous though leſs troubling extreame) that will not ſee the ſnare till they are taken in it, nor the trouble till it is upon them; nor take the a<g ref="char:EOLhyphen"/>larme till the enemy is within the Gates; nor buy oyl for their lamps till the bridegroom is at the door; and ſo muſt be taken unprepared, and in vain cry, <hi>Lord, open to us,</hi> when the <hi>Door is ſhut:</hi> Or in caſe
+<pb facs="tcp:153819:12"/>of temporal afflictions, they are to ſeek for due proviſions, when its time to <hi>uſe</hi> them. And thus when <hi>a prudent man foreſeeth the evil and hideth himſelf, the ſimple paſſeth on and is puniſhed,</hi> Prov. 22.3. &amp; 27.12. Theſe are the men that are ſtart<g ref="char:EOLhyphen"/>led at difficulties when they oc<g ref="char:EOLhyphen"/>curre, and look ſo ſtrangely and timorouſly at the Croſs, becauſe indeed they never did expect it; but gave up their names to Chriſt upon ſuppoſition that he would be better to them than his word: They could endure to <hi>read</hi> or <hi>hear</hi> of the <hi>Croſſe,</hi> but never <hi>believed</hi> that <hi>they</hi> ſhould have been put to <hi>take it up indeed,</hi> nor called to the tryal of <hi>parting with all,</hi> if they <hi>will have a treaſure in Heaven;</hi> and therefore they <hi>goe away ſorrowful,</hi> when they find they cannot ſerve <hi>God and Mammon,</hi> and ſecure the world, &amp; then have heaven as a reſerve when they can keep the world no
+<pb facs="tcp:153819:13"/>longer, <hi>Luke</hi> 18.22, 23. And many of <hi>Gods ſervants</hi> were ſo little ſerious in their expectations of ſuf<g ref="char:EOLhyphen"/>ferings perſonal or common, as that they think them ſtrange, <hi>as if ſome ſtrange thing happened to them,</hi> and look on them with a ſadder face, &amp; ſpeak of them with much ſadder language, than beſeemeth believers, that by Covenant re<g ref="char:EOLhyphen"/>nounced the World and fleſh, as expecting <hi>to ſuffer with Chriſt, that they might reigne with him:</hi> and ſhould <hi>rejoyce that they are partakers of the ſuffering of Chriſt; that when his Glory is revealed, they may be glad al<g ref="char:EOLhyphen"/>ſo with exceeding joy,</hi> 1 Pet. 4.12, 13. Matth. 5.11, 12. Rom. 8.17, 18. But Il'e not anticipate the Diſ<g ref="char:EOLhyphen"/>courſe which here fullier acquain<g ref="char:EOLhyphen"/>teth thee with theſe needful truths, but commend it to thy Reading and Obedience, as very uſefull to <hi>man that is born to trouble,</hi> and to <hi>Chriſtians</hi> that look <hi>through
+<pb facs="tcp:153819:13"/>many tribulations to enter into the Kingdome of Heaven,</hi> Acts 14.22. Job 5.6. &amp; 14.1. The Lord bleſs it to thy ſpirituall confirmation: which is the end of his recom<g ref="char:EOLhyphen"/>mendation, who deſireth to be</p>
+            <closer>
+               <signed>
+                  <hi>A helper of thy Faith and Joy.</hi> RICH. BAXTER.</signed> 
+               <dateline>
+                  <date>May 13. 1661.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:153819:14"/>
+            <head>THE CONTENTS Text, <hi>Hab.</hi> 3.17, 18.</head>
+            <p>THe Chapter is a Prayer, wherein you have,
+<list>
+                  <item>1. The Preface.</item>
+                  <item>2. The Prayer it ſelf.</item>
+                  <item>3. The Concluſion.</item>
+               </list>
+            </p>
+            <p>The Text is part of the Concluſion.</p>
+            <p>Where you have,
+<list>
+                  <item>1. A Suppoſition implyed.</item>
+                  <item>2. A Reſolution expreſſed.</item>
+               </list>
+            </p>
+            <p>Doct. <hi>It is neceſſary for Chriſtians to put caſes of difficulty to them<g ref="char:EOLhyphen"/>ſelves, and having put them, to lay down ſettled reſolutions.</hi>
+            </p>
+            <p n="1">1. The Doctrine explicated.</p>
+            <p>Firſt, What is meant by caſes of difficulty.</p>
+            <list>
+               <item>1. Such as concern us as men.</item>
+               <item>2. Such as concern us as Chriſtians.</item>
+            </list>
+            <p n="1">
+               <pb facs="tcp:153819:14"/> 1. As men, ſo evills
+<list>
+                  <item>Privative.</item>
+                  <item>Poſitive.</item>
+               </list>
+            </p>
+            <p n="2">2. Such as concern us as Chriſtians: they are difficulties</p>
+            <p>Of
+<list>
+                  <item>1. Faith.</item>
+                  <item>2. Hope.</item>
+                  <item>3. Joy.</item>
+                  <item>4. Sincerity.</item>
+                  <item>5. Obedience.</item>
+                  <item>6. Patience.</item>
+                  <item>7. Dependency.</item>
+               </list>
+            </p>
+            <p>Secondly, What is meant by putting caſes of difficulty to our ſelves: that is ſhewed,
+<list>
+                  <item>1. In General.</item>
+                  <item>2. In particulars.</item>
+               </list>
+            </p>
+            <p>Thirdly, What is meant by laying down ſetled reſolutions.</p>
+            <p>The Doctrine vindicated, and an Ob<g ref="char:EOLhyphen"/>jection anſwered.</p>
+            <p>The Doctrine confirmed.</p>
+            <list>
+               <item>1. By Scripture.</item>
+               <item>2. By Reaſon.</item>
+            </list>
+            <p>Our preparedneſſe for ſufferings ly<g ref="char:EOLhyphen"/>eth in,
+<list>
+                  <pb facs="tcp:153819:15"/>
+                  <item>1. Acquaintance with our own ſtrength to bear them.</item>
+                  <item>2. Acquaintance with them.</item>
+                  <item>3. Preparation for them.</item>
+                  <item>4. Acquaintance with thoſe meanes by which others have borne them.</item>
+                  <item>5. Taking a true meaſure of them.</item>
+                  <item>6. It prevents our being ſurprized.</item>
+                  <item>7. It will inure us to beare them.</item>
+               </list>
+            </p>
+            <p n="5">5. <hi>Applycation.</hi>
+            </p>
+            <p>Firſt, Information of 4 ſorts reprove<g ref="char:EOLhyphen"/>able.</p>
+            <list>
+               <item>1. Some that put no caſes of difficul<g ref="char:EOLhyphen"/>ty to themſelves.</item>
+               <item>2. Some that reſolve without putting caſes of difficulty.</item>
+               <item>3. Some that put caſes, but lay down no reſolutions.
+<list>
+                     <item>1. Some remain unreſolved.</item>
+                     <item>2. Some grow more unreſolved.</item>
+                  </list>
+               </item>
+               <item>4. Some that lay down reſolutions, but fall from them.</item>
+            </list>
+            <p>Secondly, Exhortation. Where you have,</p>
+            <p>Firſt, The Cauſes why men do it not<g ref="char:punc">▪</g>
+               <list>
+                  <pb facs="tcp:153819:15"/>
+                  <item>1. The Unpleaſantneſs of ſuch thoughts.</item>
+                  <item>2. A fancied unchangeableneſs of their condition.</item>
+                  <item>3. Carnal confidence.</item>
+               </list>
+            </p>
+            <p>Secondly, Directions.</p>
+            <p n="1">1. General. 2. Particular.</p>
+            <p n="1">1. General.</p>
+            <list>
+               <item>Firſt, Put your Caſes right.</item>
+               <item>Secondly, Look your Arguments be above your difficulties.</item>
+            </list>
+            <p n="2">2. Particular.</p>
+            <list>
+               <item>1. Be not over-haſty in your reſo<g ref="char:EOLhyphen"/>lutions.</item>
+               <item>2. Be ſelfe-denying.</item>
+               <item>3. Get ſafe ground for your reſo<g ref="char:EOLhyphen"/>lutions.</item>
+               <item>4. Obſerve others in their reſo<g ref="char:EOLhyphen"/>tions.</item>
+               <item>5. Get anſwers to thoſe Objecti<g ref="char:EOLhyphen"/>ons that are moſt like to hinder Reſolution.</item>
+               <item>6. Compare your diſadvantages and advantages together.</item>
+               <item>7. Nouriſh Reſolution by Prayer.</item>
+            </list>
+            <p n="3">
+               <pb facs="tcp:153819:16"/> 3. Motives, which are Nine.</p>
+            <list>
+               <item>1. Look upon your ſelves as Men.</item>
+               <item>2. Look upon your ſelves as Chri<g ref="char:EOLhyphen"/>ſtians.</item>
+               <item>3. Conſider the mutability of Times and Conditions.</item>
+               <item>4. It is your wiſdome to do it in reſpect of.
+<list>
+                     <item>Proviſion.</item>
+                     <item>Prevention.</item>
+                  </list>
+               </item>
+               <item>5. It doth not haſten, but fit for dif<g ref="char:EOLhyphen"/>ficulties.</item>
+               <item>6. It will helpe perſeverance.</item>
+               <item>7. It will keep us humble in Proſpe<g ref="char:EOLhyphen"/>rity.</item>
+               <item>8. It will keep us from fretting at croſſe providences.</item>
+               <item>9. Not putting caſes of difficulty to our ſelves, will make us doubly miſerable.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153819:16"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Habak. 3.17, 18.</hi>
+                  </bibl>
+                  <p>Although the Fig-tree ſhall not bloſſom, neither ſhall fruit be in the Vines: the labour of the Olive ſhall fail, and the fields ſhall yield no meat, the ſtock ſhall be cut off from the fold, and there ſhall be no herd in the ſtalls:</p>
+                  <p>Yet I will rejoyce in the Lord: I will joy in the God of my ſalvation.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Chapter is made up of a pithy and powerful pray<g ref="char:EOLhyphen"/>er, compoſed by the Pro<g ref="char:EOLhyphen"/>phet <hi>Habakkuk</hi> for the uſe and com<g ref="char:EOLhyphen"/>fort of the Faithful in the time of their captivity and affliction. It was for this end compoſed, that by their mediating of Gods former mercies,
+<pb n="2" facs="tcp:153819:17"/>and that power he had ſhewed in de<g ref="char:EOLhyphen"/>livering them out of <hi>Egypt,</hi> they might be incouraged to wait upon God for dehverance out of <hi>Babylon.</hi>
+            </p>
+            <p>
+               <hi>Verſ.</hi> 1. It is called a prayer of <hi>Habbakuk</hi> upon <hi>Sigionoth.</hi> The old Tranſlation renders it for the <hi>Igno<g ref="char:EOLhyphen"/>rances.</hi> Expoſitors differ about it.</p>
+            <p>Firſt, Some take it to ſignifie the Ignorances and errors of the people of <hi>Iſrael.</hi> So he prayeth that God would not impute them; that he would not re<g ref="char:EOLhyphen"/>member them in this day of their captivity.</p>
+            <p>Secondly, Others by <hi>Sigionoth</hi> un<g ref="char:EOLhyphen"/>derſtand a muſical inſtrument. So we find it in the Title of <hi>Pſal.</hi> 7. underſtood by moſt Expoſitors. And ſo this prayer being compoſed by way of a Song, this was the inſtrument on which it was ſung.</p>
+            <p>Concerning the Prayer you have conſiderable
+<list>
+                  <pb n="3" facs="tcp:153819:17"/>
+                  <item>1. The Preface.</item>
+                  <item>2. The Prayer it ſelf.</item>
+                  <item>3. The Concluſion.</item>
+               </list>
+            </p>
+            <p>Firſt, The Preface. That is <hi>verſe</hi> the firſt.</p>
+            <p>Secondly, The Prayer it ſelf; from <hi>verſe</hi> 2. to 17.</p>
+            <p>With
+<list>
+                  <item>Petitions.</item>
+                  <item>Motives.</item>
+               </list>
+            </p>
+            <p>Thirdly, The Concluſion in the three laſt verſes.</p>
+            <p>My Text falls under the Concluſi<g ref="char:EOLhyphen"/>on; ſo the Prophet concludes with</p>
+            <p>A
+<list>
+                  <item>Confident Perſwaſion.</item>
+                  <item>Comfortable Reſolution.</item>
+               </list>
+            </p>
+            <p>Firſt, With a confident perſwaſion of the Churches deliverance, <hi>verſ.</hi> 16. That though he trembled to think of the Judgement coming, yet he was confident the Church ſhould find reſt from trouble, when God ſhould in<g ref="char:EOLhyphen"/>vade <hi>Babylon</hi> with his Troops: That is, they ſhould find reſt in the day of <hi>Babylons</hi> trouble, when <hi>Cyrus</hi> ſhould ſurprize it. And this was fulfilled
+<pb n="4" facs="tcp:153819:18"/>when <hi>Cyrus</hi> having taken <hi>Babylon</hi> made Proclamation that none ſhould be hurt that ſpake the Hebrew or Sy<g ref="char:EOLhyphen"/>rian Language, as <hi>Zenophon</hi> relates.</p>
+            <p>Secondly, You have the Prophets comfortable Reſolution, <hi>verſ.</hi> 17, 18. <hi>Although the fig-tree ſhall not bloſſom,</hi> (i. e.) come what will come, or what can come, (<hi>verſ.</hi> 18.) <hi>yet will I re<g ref="char:EOLhyphen"/>joyce in the Lord, and joy in the God of my ſalvation.</hi>
+            </p>
+            <p>In the words you have two things obſervable:</p>
+            <p>A
+<list>
+                  <item>Suppoſition.</item>
+                  <item>Reſolution.</item>
+               </list>
+            </p>
+            <p>Firſt, The Prophets Suppoſition; this is implyed. He had put the Que<g ref="char:EOLhyphen"/>ſtion to himſelf concerning the miſe<g ref="char:EOLhyphen"/>ries that he and others faithful ones might live to ſee, ſuch ſpoiling and deſolations that they might be ſtrip<g ref="char:EOLhyphen"/>ped of all, they may have no fruit, nor corn, nor cattel, neither flocks nor herds.</p>
+            <p>Secondly, You have the Prophets
+<pb n="5" facs="tcp:153819:18"/>Reſolution: It is this. Although it ſhould be ſo, that <hi>the fig-tree ſhould not bloſſom,</hi> &amp;c. Yet all this ſhould not put out his Light of Joy and Comfort; He would rejoyce in the Lord; The Lord ſhould be to him inſtead of Vines, and Fig-trees, and Flocks, and Herds; he would rejoyce in the Lord, &amp;c.</p>
+            <p>The Concluſion is this:</p>
+            <p>Doct. <hi>It is neceſſary for Chriſtians to put caſes of difficulty to them<g ref="char:EOLhyphen"/>ſelves, and having put them, to lay down ſetled and ſerious Reſo<g ref="char:EOLhyphen"/>lutions.</hi>
+            </p>
+            <p>In handling of this Point I ſhall proceed by way of
+<list>
+                  <item>Explication.</item>
+                  <item>Confirmation.</item>
+                  <item>Application.</item>
+               </list>
+            </p>
+            <p>Firſt, For Explication. So.</p>
+            <list>
+               <item>1. What is meant by Caſes of Difficulty.</item>
+               <pb n="6" facs="tcp:153819:19"/>
+               <item>2. What is meant by putting Caſes of difficulty to our ſelves.</item>
+               <item>3. What is meant by laying down ſetled reſolutions.</item>
+            </list>
+            <p>Firſt, What is meant by Caſes of difficulty. So in general this; all thoſe troubles, leſſes, croſſes, dangers perſecutions, and afflicting evils, to which all are ſubject as men or Chri<g ref="char:EOLhyphen"/>ſtians, with which others have been, and with which we may be (for ought we know) exerciſed, the ſuffering of which is hard to fleſh and blood.</p>
+            <p>So Caſes of difficulty may be re<g ref="char:EOLhyphen"/>ferred to two Heads.</p>
+            <list>
+               <item>1. Such as concerne us as men.</item>
+               <item>2. Such as concerne us as Chri<g ref="char:EOLhyphen"/>ſtians.</item>
+            </list>
+            <p>Firſt, Thoſe that concerne us as men, and thoſe difficulties include two things.</p>
+            <list>
+               <item>1. Evils Privative.</item>
+               <item>2. Evils Poſitive.</item>
+            </list>
+            <p>Firſt, Evils Privative, which ſtand in the loſſe and privation of thoſe
+<pb n="7" facs="tcp:153819:19"/>good things that are neceſſary for our uſe, and ſuteable to our natures, and beings; as loſſe of friends, loſſe of husband, wife, children, eſtate, <hi>(viz.)</hi> houſes, lands, livelyhood, loſſe of li<g ref="char:EOLhyphen"/>berty, loſſe of credit, and in a word loſſe of every outward enjoyment that is comfortable. Theſe are priva<g ref="char:EOLhyphen"/>tive evils.</p>
+            <p>Secondly, Evils Poſitive, which ſtand and conſiſt in the ſence and feel<g ref="char:EOLhyphen"/>ing of thoſe things which are trouble<g ref="char:EOLhyphen"/>ſome to our natures, and bitter to our ſpirits; as hunger, thirſt, nakedneſs, poverty, impriſonment, baniſhment, ſhame and reproach, theſe our natures account difficulties and hard and bit<g ref="char:EOLhyphen"/>ter things.</p>
+            <p>Thus for the difficulties that con<g ref="char:EOLhyphen"/>cern us as men, it being the faying, <hi>Job</hi> 5.7. <hi>That man is born to trou<g ref="char:EOLhyphen"/>bles.</hi>
+            </p>
+            <p>Secondly, there are difficulties that concern us as Chriſtians, difficul<g ref="char:EOLhyphen"/>ties which attend our Profeſſion and
+<pb n="8" facs="tcp:153819:20"/>our graces, which make the exerciſing of them hard and difficult. So I ſhall name ſeven.</p>
+            <p>There are the difficulties.</p>
+            <p>Of
+<list>
+                  <item>1. Faith.</item>
+                  <item>2. Hope.</item>
+                  <item>3. Joy.</item>
+                  <item>4. Sincerity.</item>
+                  <item>5. Obedience.</item>
+                  <item>6. Patience.</item>
+                  <item>7. Dependency.</item>
+               </list>
+            </p>
+            <p>Firſt, Faith hath its difficulties. <hi>Luther</hi> ſpeaks of three difficulties of Faith.</p>
+            <list>
+               <item>1. <hi>Credere impoſſibilia rationi,</hi> to believe things ſeemingly impoſ<g ref="char:EOLhyphen"/>ſible to reaſon.</item>
+               <item>2. <hi>Sperare dilata,</hi> to hope for things that are deferred, and not yet ſeen.</item>
+               <item>3. <hi>Amare Deum cum ſe praebet ini<g ref="char:EOLhyphen"/>micum;</hi> to love God when he ſeems an enemy.</item>
+            </list>
+            <pb n="9" facs="tcp:153819:20"/>
+            <p> Thoſe are the difficulties in relati<g ref="char:EOLhyphen"/>on to faith that make believing hard; as that <hi>Abraham</hi> ſhould have a Son, when he was ſo old and his Wife old alſo. That <hi>Abraham</hi> ſhould kill his Son, and yet believe that God would make his ſeed as the Stars of Heaven for number; theſe are diffi<g ref="char:EOLhyphen"/>culties of faith. For a Chriſtian to be<g ref="char:EOLhyphen"/>lieve that God loveth him when he afflicts him, when he frowns on him, nay, ſeems to kill him; this is a diffi<g ref="char:EOLhyphen"/>culty relating to faith. For the Church to believe when God is pulling down that he intends to build up better, that when he is <hi>Overturning, Over<g ref="char:EOLhyphen"/>turning, Overturning,</hi> Ezek. 21.27. that he intends ſettlement. That when he girds himſelf with weapons of war, that he intends to ſpeak peace to his people. Theſe are difficulties relating to that of Faith.</p>
+            <p>Secondly, Hope hath its difficulties. To ſit in darkneſs, and yet hope for light; to lye in the grave, and yet
+<pb n="10" facs="tcp:153819:21"/>hope for a Reſurrection; to be in trou<g ref="char:EOLhyphen"/>ble, and yet hope for a good day of re<g ref="char:EOLhyphen"/>newing and reviving; theſe are ſome of the difficulties of hope. To ſee the Church trodden under foot, and yet to hope to ſee it glorious; this is a difficulty in relation to a Chriſtians hope.</p>
+            <p>Thirdly, Joy hath its difficulties. The Apoſtle ſaith, <hi>Rejoyce alwayes,</hi> Phil. 4 4. And yet at ſome times there are ſome things that make it hard for a Chriſtian to rejoyce. To loſe friends, to want outward comforts, to want li<g ref="char:EOLhyphen"/>berty, to ſuffer baniſhment, impriſon<g ref="char:EOLhyphen"/>ment, ſpoyling of goods, yea, loſs of life it ſelf, and yet rejoyce, this is hard. And theſe are ſome of the dif<g ref="char:EOLhyphen"/>ficulties that attend Chriſtian joy.</p>
+            <p>Fourthly, Chriſtian ſincerity hath its difficulties. There are thoſe things that make it hard for a Chriſtian to keep a good conſcience. To live in evil times, and among a wicked Ge<g ref="char:EOLhyphen"/>neration, and yet for a Chriſtian to
+<pb n="11" facs="tcp:153819:21"/>hold his integrity, to ſuffer for a good conſcience, and yet to keep a good conſcience; this is hard. <hi>Tertullian</hi> ſpake of ſome times, when ſaith he, <hi>Ingenioſum eſt eſſe Chriſtianum,</hi> it is a witty thing to be a Chriſtian. To be reproached, made a by-word, perſe<g ref="char:EOLhyphen"/>cuted, and ſuffer what the Devil can invent, or men execute for righteouſ<g ref="char:EOLhyphen"/>neſs ſake; and yet to be righteous in our Generation, and to walk with God (as <hi>Noah</hi> did) notwithſtanding all this; this is hard.</p>
+            <p>Fifthly, Chriſtian Obedience hath its difficulties. There are thoſe things that make obedience to the will and laws and commands of God difficult. <hi>Abraham</hi> was commanded to leave his Country, and to go he knew not whither; he was commanded to ſa<g ref="char:EOLhyphen"/>crifice his Son: theſe were difficult commands. Obedience to the com<g ref="char:EOLhyphen"/>mands of the Goſpel have their diffi<g ref="char:EOLhyphen"/>culties. For a man to deny himſelf, to forſake wife and children, houſes and
+<pb n="12" facs="tcp:153819:22"/>lands for Chriſts ſake; for a man to croſs his own deſires, crucifie his own luſts, mortifie his own members; in a word, for a man to cut off his right hand, and to pull out his right eye; this is hard.</p>
+            <p>Sixthly, Chriſtian patience hath its difficulties. There are thoſe things that ſometimes make it hard for a Chriſtian to exerciſe that grace. To be dealt with as <hi>Job</hi> was, ſtript of all to a ſhoe-latchet, to ſuffer in our bodies, names, eſtates, to ſuffer from men and that wrongfully, to have evil requited for good, and yet to be patient, this is hard. To be in <hi>Job</hi>'s caſe, <hi>Job</hi> 1. and yet to bleſs God: to be in <hi>David</hi>'s caſe, <hi>Pſ.</hi> 39. and yet to lay our hands upon our mouths; to have the Lord deal with us as he pleaſe, and yet to ſay as <hi>Eli</hi> did, <hi>It is the Lord, let him do what he will;</hi> this is hard.</p>
+            <p>Seventhly, Chriſtian dependancy hath its difficulties. There are things that make it hard for a Chriſtian to
+<pb n="13" facs="tcp:153819:22"/>truſt and depend on God. To ſee means failing, to ſee the fig-tree blaſted, the Vine without fruit, the fields without corn, the folds with<g ref="char:EOLhyphen"/>out flocks, the ſtall without herds, and yet to depend on God for being fed; this is hard.</p>
+            <p>Thus for the difficulties that con<g ref="char:EOLhyphen"/>cern us both as men and Chriſtians.</p>
+            <p>Secondly, We are to ſhew what is meant by a Chriſtians putting caſes of difficulty to himſelf.</p>
+            <p>In general; it conſiſts in a Chri<g ref="char:EOLhyphen"/>ſtians ſerious conſideration of all dif<g ref="char:EOLhyphen"/>ficulties, to which all are lyable and ſubject as men or Chriſtians; and then propoſing them to himſelf as thoſe things that not only poſſibly but pro<g ref="char:EOLhyphen"/>bably he may encounter with; and that what hath been the caſe of others as men and Chriſtians, may be his. So it ſtands in two things.</p>
+            <p>Firſt, In a ſerious conſideration of thoſe evils and difficulties to which as Men or Chriſtians we are liable. The
+<pb n="14" facs="tcp:153819:23"/>which conſideration ariſeth from the meditation of theſe four things.</p>
+            <list>
+               <item>1. The nature of all outward things, that they are all change<g ref="char:EOLhyphen"/>able and uncertain. <hi>Solomon</hi> ſaith, <hi>All is vanity;</hi> vanity implyes brevity, mortality, mu<g ref="char:EOLhyphen"/>tability.</item>
+               <item>2. The condition of man, that is changeable. All the children of men are children of change, not only in reſpect of their diſ<g ref="char:EOLhyphen"/>poſition in relation to their in<g ref="char:EOLhyphen"/>tentions, purpoſes, reſolutions, but alſo in reſpect of their out<g ref="char:EOLhyphen"/>ward condition, as it reſpects health, wealth, and all outward enjoyments, as we ſee in the caſe of <hi>Job, &amp;c.</hi>
+               </item>
+               <item>3. The condition and ſtate of times. Times may preſent diffi<g ref="char:EOLhyphen"/>culties to our conſideration; times of war preſent to our conſideration loſſe of peace, life, livelihood, liberty, <hi>&amp;c.</hi>
+                  <pb n="15" facs="tcp:153819:23"/>Times of perſecution preſent to our conſideration the like difficulties.</item>
+               <item>4. The difficulties that others have met with both as men &amp; Chri<g ref="char:EOLhyphen"/>ſtians, do preſent to our conſi<g ref="char:EOLhyphen"/>deration the difficulties that we may encounter with. Some have had their flocks cut off from their ſolds, and the herds from their ſtall, &amp;c. Some have ſeen the ſpoiling of their goods, and have ſuffered (for the ſake of Chriſt) all thoſe miſeries, tor<g ref="char:EOLhyphen"/>tures and torments, of which read <hi>Heb.</hi> 11.35, 36, 37, 39. Which one calls a little Book of Martyrs.</item>
+            </list>
+            <p>Secondly, putting caſes of difficul<g ref="char:EOLhyphen"/>ry to our ſelves ſtands in this, in a Chriſtians making it his caſe, by put<g ref="char:EOLhyphen"/>ting the queſtion to himſelf concern<g ref="char:EOLhyphen"/>ing thoſe difficulties; may they not befall me? and what ſhall I do if they do befal me? It is a mans ex<g ref="char:EOLhyphen"/>amining
+<pb n="16" facs="tcp:153819:24"/>himſelf about his reſolutions concerning thoſe difficulties, when he hath propounded them to himſelf. The Queſtion is; put caſe it ſhould be my caſe to ſee what others have ſeen, and to ſuffer what others have ſuffered? <hi>What if the fig-tree ſhould not bloſſom,</hi> &amp;c. What if the caſe of thoſe that have ſuffered in their liber<g ref="char:EOLhyphen"/>ties, eſtates, <hi>&amp;c.</hi> come to be my caſe? Nay, what if it come to reſiſting to blood: what in theſe caſes ſhall I do? This is a Chriſtians propounding caſes of difficulty to himſelf.</p>
+            <p>Thus for the ſecond thing.</p>
+            <p>Thirdly, We are to ſhew what is meant by laying down ſetled reſolu<g ref="char:EOLhyphen"/>tions. So we mean thoſe deliberate anſwers the ſoul makes to it ſelf upon good grounds, in relation to thoſe caſes of difficulty propounded.</p>
+            <p>Conſider, In putting caſes of diffi<g ref="char:EOLhyphen"/>culty, there is a putting the queſtion to ones ſelf; as the unjuſt Steward did to himſelf, <hi>Luk.</hi> 16.2. <hi>My Lord
+<pb n="17" facs="tcp:153819:24"/>taketh away the Stewardſhip; what ſhall I do?</hi> He puts the queſtion, and comes to conſider of the reſolution, which you find in the verſes follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p>So then, ſetled reſolutions are thoſe anſwers the ſoul returns to thoſe que<g ref="char:EOLhyphen"/>ſtions that it puts to it ſelf concern<g ref="char:EOLhyphen"/>ing difficulties. Thus in the text, the queſtion is, <hi>what if the Fig-tree ſhould not bloſſome?</hi> (for ſuch a queſtion is implyed, that the Prophet had put to himſelf) and the anſwer and reſolu<g ref="char:EOLhyphen"/>tion is this, <hi>I will rejoyce in the Lord,</hi> &amp;c.</p>
+            <p>It is an anſwer returned upon good grounds; the reſolution of <hi>Habak<g ref="char:EOLhyphen"/>kuk</hi> was built upon a ſtrong foundati<g ref="char:EOLhyphen"/>on, <hi>(viz.)</hi> the power, love, and al<g ref="char:EOLhyphen"/>ſufficiency of God, when he ſaid, <hi>Yet will I rejoyce in the Lord,</hi> &amp;c.</p>
+            <p>So then, when upon good grounds a Chriſtian takes up ſuch reſolutions as theſe; that come what will come, yet I will hope, and believe, and obey,
+<pb n="18" facs="tcp:153819:25"/>and hold faſt my integrity, I will be patient and rejoyce in the God of my ſalvation. This is laying down ſet<g ref="char:EOLhyphen"/>led reſolutions.</p>
+            <p>Thus for the third thing.</p>
+            <p>Secondly, for the vindication of the Doctrine.</p>
+            <p>Some may object that of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Phil.</hi> 4.6. <hi>In nothing be careful.</hi> The queſtion is, whether this Do<g ref="char:EOLhyphen"/>ctrine of ſelf-poſing about troubles and difficulties, do not croſſe this precept?</p>
+            <p>It is anſwered, it doth not. By that Scripture, all care is not forbidden; not a care of diligence or providence, but of diſtruſt and diffidence. The words are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which ſigni<g ref="char:EOLhyphen"/>fies ſuch diſtracting and doubtfull cares as teare and torture the heart with carking thoughtfulneſs and fret<g ref="char:EOLhyphen"/>full impatiency. Now when we tell you of putting caſes of difficulty, we meane not that Chriſtians ſhould be diſtruſtfully careful, but ſhould ſet<g ref="char:EOLhyphen"/>tle
+<pb n="19" facs="tcp:153819:25"/>their ſpirits by caſting their care on God, as <hi>Habakkuk</hi> did in the text, <hi>Yet will I rejoyce in the Lord,</hi> &amp;c.</p>
+            <p>Thirdly, For Confirmation.</p>
+            <p>By
+<list>
+                  <item>Scripture.</item>
+                  <item>Reaſons.</item>
+               </list>
+            </p>
+            <p>Firſt, by Scripture; ſo we ſhall find it hath been the practice of Saints to put caſes of difficulty to themſelvs. <hi>Pſal.</hi> 3.6. <hi>I will not be afraid of ten thouſand,</hi> &amp;c. Where.</p>
+            <list>
+               <item>1. The caſe is implyed; What if ten thouſand ſhould beſet me round about?</item>
+               <item>2. The reſolution is expreſſed; <hi>I will not be afraid.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Pſal.</hi> 23.4. <hi>Though I walk through the valley of the ſhadow of death,</hi> &amp;c. Where
+<list>
+                  <item>1. The caſe is put: What if I walk through the valley of the ſhadow of death.</item>
+                  <item>2. There is his Reſolution layed down; <hi>(viz.) I will fear none evil.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="20" facs="tcp:153819:26"/>
+            <p> You may conſult thoſe places, <hi>Pſal.</hi> 27.3. <hi>Pſal.</hi> 46.2, 3.</p>
+            <p>I ſhall add only one place more: <hi>Job</hi> 13.15. <hi>Though he ſlay me, yet will I truſt in him.</hi> Where you have
+<list>
+                  <item>1. The caſe of difficulty put.</item>
+                  <item>2. The reſolution layed down, <hi>yet will I truſt in him.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Secondly, For the Reaſons. So the cheif is this: our being prepared for ſufferings, hardſhips, and difficultie<g ref="char:EOLhyphen"/>lyeth in this putting of caſes of diffi<g ref="char:EOLhyphen"/>culty to our ſelves. You know our Saviour was much in propounding them to his Diſciples; he told them <hi>they muſt be hated of all men for his name ſake; that they muſt be brought before Kings and Rulers.</hi> And all this was by way of preparing them for the ſufferings they were to meet with.</p>
+            <p>So conſider what advantages a chri<g ref="char:EOLhyphen"/>ſtian hath by putting caſes of difficul<g ref="char:EOLhyphen"/>ty to himſelf, in order to a preparation for difficulties.</p>
+            <p n="1">
+               <pb n="21" facs="tcp:153819:26"/> 1. It makes a Chriſtian ac<g ref="char:EOLhyphen"/>quainted with his own ſtrength, and what ability he hath to en<g ref="char:EOLhyphen"/>counter with the ſaid difficulties. A Porter, before he carrieth a great burthen doth uſe to poiſe it; ſo this putting caſes of diffi<g ref="char:EOLhyphen"/>culty to our ſelves, is but pon<g ref="char:EOLhyphen"/>dering and weighing the affli<g ref="char:EOLhyphen"/>ctions that we may ſuffer, be<g ref="char:EOLhyphen"/>fore we come to beare them; It is examining our ſelves what we can ſay to ſuch a Croſſe, and ſuch a miſery, if it befall us: It is like the Queſtion that Chriſt put to <hi>Zebedees</hi> children, <hi>Mark</hi> 15.22. <hi>Are you able to drink of the Cup that I muſt drink of, and to be baptiſed with the baptiſm that I am to be baptiſed with? and they ſaid, we are able.</hi>
+            </p>
+            <p n="2">2. It makes us acquainted with difficulties before they come; and acquaintance with difficul<g ref="char:EOLhyphen"/>ties
+<pb n="22" facs="tcp:153819:27"/>and evils makes them eaſi<g ref="char:EOLhyphen"/>er. Unacquaintance with them cauſeth feare, horrour and a<g ref="char:EOLhyphen"/>mazement; whereas on the contrary, acquaintance with e<g ref="char:EOLhyphen"/>vils cauſeth courage and bold<g ref="char:EOLhyphen"/>neſſe. <hi>Tacitus</hi> ſaith of one, that he was <hi>ambiguarum rerum ſci<g ref="char:EOLhyphen"/>ens, ideoque intrepidus.</hi> He was acquainted with difficulties, and therefore feared them not. The firſt ſight of a Lion renders him terrible; but after frequent views of him he is leſs feared. It is unacquaintance with evils that makes them ſo dreadful to us: So that putting caſes of difficulty to our ſelves is the only way to make the evil the leſs terrible, when it lookes us in the face. <hi>Job</hi> calleth Death <hi>the King of Terrours,</hi> Job 18.14. And the Philoſopher ſaith, <hi>that of terrible things, it is the moſt terrible:</hi> And yet the Apoſth
+<pb n="23" facs="tcp:153819:27"/>by his dying daily, 1 <hi>Cor.</hi> 15.3. became ſo familiarly ac<g ref="char:EOLhyphen"/>quainted with death, that he tells us, <hi>Acts</hi> 20.24. <hi>That his life was not dear to him:</hi> he could play on the hole of the Cocka<g ref="char:EOLhyphen"/>trice. And withall tells us, 2 Cor. 11.23. <hi>That he was in Deaths often,</hi> i. e. he had been in ſo many dangers that threat<g ref="char:EOLhyphen"/>ned death, and preſented him with the face of death, that he was ſo well acquainted with it that he was above the fear of death.</p>
+            <p n="3">3. By this Chriſtians come to furniſh themſelves aforehand with thoſe things that may help them to encounter with diffi<g ref="char:EOLhyphen"/>culties when they come. It will put them upon having thoſe things in readineſs that will help to ſuccour them in a day of affliction. He that conſiders the crazineſs of his own body,
+<pb n="24" facs="tcp:153819:28"/>will alwayes have thoſe things in readineſſe that may relieve him when fainting Fits come. Putting caſes of difficulty to our ſelves will put us upon Provi<g ref="char:EOLhyphen"/>ding thoſe things that are uſe<g ref="char:EOLhyphen"/>ful when difficulties come. What is the reaſon that many in ſuffering times have ſuffer<g ref="char:EOLhyphen"/>ing Graces to ſeek, but only this, that they did not put caſes of difficulty to themſelves? It is reported of Doctor <hi>Butler,</hi> who was a Phyſitian famous for the curing of Conſumptions; yet he himſelf dyed of a Con<g ref="char:EOLhyphen"/>ſumption; and being asked by a friend, how it came to paſſe, that he who was ſo eminent for curing of conſumptions, yet he ſhould dye of that diſeaſe and not cure himſelf; he replyed, <hi>I never feared it.</hi> How many Travellers meet with ſtormes which wet them to the Skin, by
+<pb n="25" facs="tcp:153819:28"/>reaſon of their not forecaſting what weather they might meet with; had they done it they had been provided for them. How many men have been rob<g ref="char:EOLhyphen"/>bed of their monies and goods by riding unarmed? Putting caſes of difficulty to our ſelves will put us upon getting confli<g ref="char:EOLhyphen"/>cting Graces for conflicting times: it will make us do as <hi>Joſeph</hi> did, lay up for the years of famine.</p>
+            <p>Fourthly, By this we come to bee acquainted with thoſe wayes and means by which others have encountred with and con<g ref="char:EOLhyphen"/>quered difficulties. This put<g ref="char:EOLhyphen"/>ting of caſes of difficulty to our ſelves, will put us upon an in<g ref="char:EOLhyphen"/>quiry how others did bear their ſufferings, and how they en<g ref="char:EOLhyphen"/>countred with thoſe difficulties they met with in their, way to heaven. What were their ſup<g ref="char:EOLhyphen"/>ports
+<pb n="26" facs="tcp:153819:29"/>and comforts? what was their behaviour in the day of their affliction, and how they overcame? It will put us up<g ref="char:EOLhyphen"/>on inquiring how <hi>Job</hi> and others bare their afflictions when their flocks were cut off from the fold, and their herds from the ſtall: How the Martyrs in the primitive and latter times bare theirs. It is a great encourage<g ref="char:EOLhyphen"/>ment to us when we are to paſs over deep waters; to conſider they are ſuch deeps that others have paſſed through; which renders them fordable and paſ<g ref="char:EOLhyphen"/>ſable. The Roman General when he was to fight his ene<g ref="char:EOLhyphen"/>mies, thus encouraged his Soul<g ref="char:EOLhyphen"/>diers; <hi>Cum iis vobis pugnandum est quns priori bellow terra marique viciſtis;</hi> You are to fight with thoſe that both by Sea and Land you have overcome. So it is a great encouragement when we
+<pb n="27" facs="tcp:153819:29"/>conſider, that there are no diffi<g ref="char:EOLhyphen"/>culties that wee can meet with, but other Saints have encoun<g ref="char:EOLhyphen"/>tred with and conquered.</p>
+            <p>Fifthly, This is the way to gage difficulties, and take a true meaſure of them. We are ma<g ref="char:EOLhyphen"/>ny times much miſtaken about difficulties, and the reaſon is, becauſe our apprehenſions are not rectified concerning them: We pull not off their vizzards, and that makes them ſeem ter<g ref="char:EOLhyphen"/>rible. Serious conſideration of a difficulty puts us upon meaſu<g ref="char:EOLhyphen"/>ring the length, and fathoming the depth of it. Thus the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> did when hee made that reply to thoſe that diſſwa<g ref="char:EOLhyphen"/>ded him from going to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> Acts 21.13. <hi>What mean yee to weep and break mine heart? I am ready not only to bee bound, but alſo to dye for the name of Chriſt:</hi> q.d. I have conſide<g ref="char:EOLhyphen"/>red
+<pb n="28" facs="tcp:153819:30"/>of theſe things, and am ſo far from fearing bonds, that I fear not death.</p>
+            <p>Sixthly, This is the way for Chri<g ref="char:EOLhyphen"/>ſtians to prevent a ſurprize; this will keep a Chriſtian upon his watch and guard, that evils ſhall not ſeize on him at una<g ref="char:EOLhyphen"/>wares, and before he expected them: It will help him to fall forward, when others fall back<g ref="char:EOLhyphen"/>ward into troubles. Such a Chri<g ref="char:EOLhyphen"/>ſtian falls into troubles fore<g ref="char:EOLhyphen"/>ſeen, when another comes in in the day of affliction with his <hi>non putarum,</hi> I never thought of theſe evils. It is an expreſ<g ref="char:EOLhyphen"/>ſion of <hi>Job, Job</hi> 3.25. <hi>The thing that I feared is come upon mee.</hi> It ſeems that good man in the dayes of his proſperity thought of trouble and adverſi<g ref="char:EOLhyphen"/>ty. So the Chriſtian that put caſes of difficulty to himſelf may ſay when an affliction be
+<pb n="29" facs="tcp:153819:30"/>falleth him, This is no more but what I fore-thought and expe<g ref="char:EOLhyphen"/>cted. It was the ſaying of a Hea<g ref="char:EOLhyphen"/>then when he heard of the death of his Son; <hi>Scio me genuiſſe mor<g ref="char:EOLhyphen"/>talem,</hi> I knew I begat him mor<g ref="char:EOLhyphen"/>tal. It is ſweet when trouble cometh, for a Chriſtian to bee able to ſay, This is no more than I looked for.</p>
+            <p>Seventhly, It is the way to inure our ſelves to bear ſufferings. That is born eaſily that a man is uſed and inured to. The ſay<g ref="char:EOLhyphen"/>ing is, <hi>Marti arma non ſunt ono<g ref="char:EOLhyphen"/>ra,</hi> Weapons are no burthen to <hi>Mars.</hi> As they ſay of <hi>Milo,</hi> hee could carry a Bull, and the rea<g ref="char:EOLhyphen"/>ſon was, his carrying of him when hee was a calf. There is an expreſſion, <hi>Lam.</hi> 3.27. <hi>It is good for a man to bear the yoak in his youth;</hi> i. e. to inure himſelf to bear afflictions.</p>
+            <pb n="30" facs="tcp:153819:31"/>
+            <p> By way of Application.</p>
+            <p n="1">1. By way of Information: So it informs us of four ſorts that are re<g ref="char:EOLhyphen"/>proveable.</p>
+            <p>Firſt, There are ſome that put no caſes of difficulty to themſelves. Some there are that have no thoughts of troubles, dangers, difficulties. The Prophet <hi>Amos</hi> telleth of ſuch, <hi>Amos</hi> 6.3. who put the evil day far from them. And the Prophet <hi>Iſaiah</hi> telleth us of ſome who make a Covenant with death. This is the caſe of moſt ſinners, that they will not remember the dayes of darkneſs, danger, and miſery, that are coming upon them. That ſinners ſhould put caſes of difficulty and danger to themſelves, God is pleaſed himſelf to propound caſes to them in his Word, which wee
+<pb n="31" facs="tcp:153819:31"/>finde frequent <hi>(viz.) Iſa.</hi> 10.2. <hi>What will yee do in the day of viſitation,</hi> &amp;c? <hi>Jerem.</hi> 5.31. <hi>What will yee do in the end there<g ref="char:EOLhyphen"/>of?</hi> Beſide many other places, to convince ſinners of the folly of their fancied ſecurity, when death and hell, and miſery and deſolation are at their backs. It was the ſaying of King <hi>James</hi> when hee heard one Preach a powerful Sermon before him; <hi>This man preacheth as if death were at my back.</hi> But thus it is with many, when their Miniſters Preach to them of wrath and judgement at their backs and heels, they never take notice of it. How many are there that never put the queſtion to them<g ref="char:EOLhyphen"/>ſelves concerning the day of deſolation, what they ſhall do when it cometh; concerning the day of death, how they ſhall be ſitted for it; concerning the
+<pb n="32" facs="tcp:153819:32"/>day of Judgement, whether they can ſtand in the Judgement. They never put that queſtion that is put <hi>Job</hi> 31.14. <hi>When God riſeth up, what ſhall I do? and when hee viſiteth, what ſhall I anſwer?</hi> But ſay as <hi>Babylon</hi> did, <hi>I ſit as a Queen, and ſhall never be in adverſity.</hi>
+            </p>
+            <p>Secondly, There are ſome who re<g ref="char:EOLhyphen"/>ſolve, but it is without putting caſes of difficulty to themſelves. Theſe are like the fooliſh buil<g ref="char:EOLhyphen"/>der, that reſolveth to build, but conſidereth not before-hand what it will coſt him. We read <hi>Matth.</hi> 13.20. of thoſe that received the word with joy, but when perſecution did ariſe they were offended. There are many that reſolved to bee reli<g ref="char:EOLhyphen"/>gious, till they found the diffi<g ref="char:EOLhyphen"/>culties that did attend Religi<g ref="char:EOLhyphen"/>on. So their goodneſs was but as a morning cloud, <hi>Hoſ.</hi> 6.4.
+<pb n="33" facs="tcp:153819:32"/>It is with ſome as it is with a man ſitting by the fire in a ſtor<g ref="char:EOLhyphen"/>my winter day, that reſolves to take a journey, but when hee cometh forth and ſeeth what weather it is, altereth his reſo<g ref="char:EOLhyphen"/>lution. Thus did <hi>Peter,</hi> who re<g ref="char:EOLhyphen"/>ſolved to dye before hee would deny Chriſt. Wee read of one that came to Chriſt, and told him, <hi>Maſter, I will follow thee whither ſoever thou goeſt,</hi> Matth. 8.20. But when Chriſt anſwer<g ref="char:EOLhyphen"/>ed him, <hi>The Foxes have holes, and the Birds of the air, neſts, but the Son of Man hath not where to lay his head:</hi> Although we hear his reſolution, we hear no more of him after this anſwer given by our Saviour.</p>
+            <p>Thirdly, There are ſome that put caſes of difficulty to themſelves but lay down no ſettled reſolu<g ref="char:EOLhyphen"/>tion. Theſe are of two ſorts.</p>
+            <p n="1">
+               <pb n="34" facs="tcp:153819:33"/> 1. There are ſome that put caſes of difficulty to themſelves, and yet remain unreſolved. Tell them of ſufferings approaching, they ſay with the unjuſt Stew<g ref="char:EOLhyphen"/>ard, <hi>What ſhall I do?</hi> they are perſons of no reſolution; they cannot tell if ſuch and ſuch times ſhould come, ſuch and ſuch caſes ſhould happen, what they ſhould do. Not only ask them, what if the fig tree do not bloſſome, as it is in the text, <hi>&amp;c.</hi> But what if it come to fire and faggot, and reſiſting to blood, mentioned <hi>Hebrews</hi> 12. they are not reſolved what to do.</p>
+            <p n="2">2. There are ſome that put caſes of difficulty to themſelves, but thereupon grow more unreſol<g ref="char:EOLhyphen"/>ved. As the Kinſman, <hi>Ruth.</hi> 4.6. was willing to have redeemed <hi>Elimelechs</hi> Land, till hee heard the condition, which was the
+<pb n="35" facs="tcp:153819:33"/>marrying of <hi>Ruth.</hi> Thus it is with men that cry there is a Li<g ref="char:EOLhyphen"/>on without, <hi>Prov.</hi> 22.13. And that that makes others reſolute makes them fearful; their re<g ref="char:EOLhyphen"/>ſolution is to ſleep in a whole skin, and they will never burn for their Religion.</p>
+            <p>Fourthly, There are ſome that put caſes of difficulty to themſelves, and lay down reſolutions, but fall back and apoſtatize from them. Their reſolutions are not ſerious and ſetled; they are like the children of <hi>Ephraim,</hi> of whom the Pſalmiſt ſpeaks, <hi>Pſal.</hi> 78.9. <hi>That being armed, and carrying Bows, turned their backs in the day of battle.</hi> Thus did <hi>Peter,</hi> who reſolved hee would dye before hee would deny his Maſter, and yet for all that did deny him: he did put caſes of difficulty to himſelf in relation to his owning of Chriſt
+<pb n="36" facs="tcp:153819:34"/>in his troubles, as you may ſee, <hi>Luk.</hi> 22.33. <hi>I will go with thee both into priſon and to death;</hi> yea he ſaid, <hi>though all deny thee, yet will I never deny thee;</hi> yet his reſolution failed. Some reſo<g ref="char:EOLhyphen"/>lutions are built upon ſandy foundations; and it is with them as with that houſe of which our Saviour ſpeaks, <hi>Matthew</hi> 7.27. <hi>That the waters roſe, and the windes blew, and beat upon that houſe, and it fell.</hi> Remember, Self is a ſandy foundation for a<g ref="char:EOLhyphen"/>ny man to build reſolutions on; Self-confident men are the firſt that recoil and turn their backs; and it is juſt with God to leave ſuch to themſelves that confide only in themſelves, and not in God. There are ſome that are over-confident, and ſome that are too timerous; both are to be blamed: and as for the latter, <hi>Luther</hi> (a man of
+<pb n="37" facs="tcp:153819:34"/>extraordinary courage and ſpi<g ref="char:EOLhyphen"/>rit) did chide <hi>Melancthon</hi> and o<g ref="char:EOLhyphen"/>ther friends of his for it. But for my part, I had rather be of the number of timerous Chriſtians, than of thoſe that are over-con<g ref="char:EOLhyphen"/>fident. The timerous Chriſtian, doubting of his own ſtrength, and being convinced of his own inability to undergo ſufferings when they come, looks out of himſelf, and faſtens upon a rock that is higher than he; when the over-confident Chriſtian builds and bottoms himſelf up<g ref="char:EOLhyphen"/>on his own ſtrength. You know the ſtory of Mr. <hi>Saunders</hi> and Dr. <hi>Pendleton. Pendleton</hi> was the confident man, <hi>Saunders</hi> was the timerous man; but the timerous man ſuffered at the ſtake, when the confident man returned this anſwer, that <hi>He could not burn.</hi>
+            </p>
+            <p n="2">
+               <pb n="38" facs="tcp:153819:35"/> 2. Uſe is by way of Exhortation, and it is to put us upon the duty of putting caſes of difficulty to our ſelves</p>
+            <p>Here we ſhall do three things.</p>
+            <list>
+               <item>1. Shew whence it is men do it not.</item>
+               <item>2. Directions concerning it.</item>
+               <item>3. Arguments and Motives to move us to it.</item>
+            </list>
+            <p n="1">1. Conſider why ſome do it not. So among other cauſes of it take theſe</p>
+            <p>Firſt, The unpleaſantneſs and bit<g ref="char:EOLhyphen"/>terneſs of ſuch thoughts; they think it is tormenting them before their time. Every man naturally deſireth to fancy to himſelf eaſe and quietneſs when the evil day of wrath and judg<g ref="char:EOLhyphen"/>ment is near. And when they are told that ſuch a day is drawing near, how ready are they to put it far from them, as thoſe in <hi>Amos</hi> did, <hi>Amos</hi> 6.3. As <hi>Peter</hi> ſaid to Chriſt, <hi>Be it far from thee Lord, this evil ſhall not bee unto thee,</hi> When Chriſt foretold his ſufferings.
+<pb n="39" facs="tcp:153819:35"/>How many are there that love not thoſe Sermons by which they are cal<g ref="char:EOLhyphen"/>led upon to the exerciſe of this duty, and are ready to ſay of Miniſters that preach ſuch Doctrine, as <hi>Ahab</hi> did of <hi>Micaiah, hee ſpeaketh no good to mee;</hi> And as he ſaid to <hi>Elijah, Haſt thou found me, O mine enemy.</hi> And when the diſcourſes of difficulty are ſo un<g ref="char:EOLhyphen"/>pleaſing to men, much more muſt the thoughts of them bee to them: what we love not to hear of, we leſſe love to think of.</p>
+            <p>Secondly, A kind of unchangeable<g ref="char:EOLhyphen"/>neſs that ſome groundleſly fancy con<g ref="char:EOLhyphen"/>cerning their preſent condition. They think their mountain is ſo ſtrong that it cannot be removed: they think not that times may change, that winds may turn; and that that wind that now ſits upon their backs to blow them forward, may quickly turn and blow in their faces to drive them backwards. Thus ſaid <hi>Babylon</hi> in her proſperity, <hi>I ſit as a Queen, and ſhal never
+<pb n="40" facs="tcp:153819:36"/>be in adverſity.</hi> Yea thus ſaid <hi>David</hi> in his proſperity, <hi>Pſal.</hi> 30.6. <hi>That he ſhould not be moved.</hi> The truth is, men look not upon outward things with right conſiderations, of their bre<g ref="char:EOLhyphen"/>vity, mortality, mutability. Moſt ſay as thoſe in <hi>Iſa.</hi> 56.12. <hi>To morrow ſhall be as this day.</hi> Moſt men look only upon the outward wheel of Provi<g ref="char:EOLhyphen"/>dence, but conſider not the wheel within the wheel, as the expreſſion is <hi>Ezek.</hi> 1. <hi>And there was a wheel with<g ref="char:EOLhyphen"/>in the wheel.</hi> When men are in a pro<g ref="char:EOLhyphen"/>ſperous condition, they grow confi<g ref="char:EOLhyphen"/>dent, that their mountain is ſo ſtrong they ſhall not be moved; but this is by reaſon of their looking upon the outward wheel, but think not of the wheel within the wheel, how that may move. The outward wheel of providence, as to <hi>Haman,</hi> moved to his honor and advancement; but the inward wheel moved to his ruine and deſtruction. As on the contrary, in the caſe of <hi>Joſeph,</hi> the outward wheel
+<pb n="41" facs="tcp:153819:36"/>of providence ſeemed to move to his ruine and deſtruction, when the in<g ref="char:EOLhyphen"/>ward wheel moved to his honour and advancement. So then, this is one cauſe why many put no caſes of diffi<g ref="char:EOLhyphen"/>culty to themſelves; they only look on the outward wheel, but think not of the wheel within the wheel.</p>
+            <p>Thirdly, carnal confidence. Some think, come what will come, we have ſomething to truſt to. As the Pro<g ref="char:EOLhyphen"/>phet <hi>Amos</hi> telleth thoſe, <hi>Amos</hi> 6.1. <hi>That they did truſt in the Mountain of Samaria;</hi> and then ſee verſ. 3. <hi>They put the evil day far from them.</hi> When others make God their refuge and Rock, and ſtrong Tower of defence; theſe make their barns, and their bags, and their friends, and (in a word) the creature, the rock of their confi<g ref="char:EOLhyphen"/>dence; and upon this account think themſelves ſo ſafe that they need not fear. <hi>Solomon</hi> ſaith of the rich man, <hi>Prov.</hi> 10.15. <hi>That his wealth is his ſtrong City.</hi> Thus ſome look upon
+<pb n="42" facs="tcp:153819:37"/>friends as their rock; ſome upon riches as their rock; ſome upon their preſent worldly enjoyments as their rock. And this is the reaſon why ſuch put no caſes of difficulty to them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p n="2">2. Conſider the Directions con<g ref="char:EOLhyphen"/>cerning putting caſes of difficulty to our ſelves; and ſo to put them that wee may with the Prophet <hi>Habakkuk,</hi> lay down ſetled reſolutions.</p>
+            <p>The Directions are of two ſorts.</p>
+            <list>
+               <item>1. Some more general,</item>
+               <item>2. Some more particular.</item>
+            </list>
+            <p>The general Directions are theſe.</p>
+            <p>Firſt, In putting caſes of difficulty to our ſelves, we muſt be ſure to put them right; we muſt neither put them above nor below what they are. Some look upon difficulties through multi<g ref="char:EOLhyphen"/>plying-glaſſes, &amp; magnifying-glaſſes, which repreſent difficulties to them, more and greater indeed than they are. A wiſe man diſcourſeth them, and gageth them, he fathomes them,
+<pb n="43" facs="tcp:153819:37"/>and makes them neither greater nor leſs than they are. Some there are that put vizzards upon their difficul<g ref="char:EOLhyphen"/>ties, and make them look worſe than they are, and ſeeing them ſo diſguiſed fly from them. We read of one, who when he came in armed, and with his Head-piece on, his own child fled from him as being afraid, though he was his Father; but the Armour be<g ref="char:EOLhyphen"/>ing put off he ran to him and owned him. It is the wiſdome of Chriſtians to pull the vizzards off two things.</p>
+            <list>
+               <item>1. Sin, to ſee the uglineſs of it.</item>
+               <item>2. Sufferings, that there is no ſuch terribleneſs in them as ſome imagine.</item>
+            </list>
+            <p>And as Chriſtians are not to put caſes of difficulty to themſelves above what they are, ſo they are not to put them below what they are; if ſo, there will either follow non-reſolution, or very weak and ſlight reſolutions; the end of which will be but a ſurprizal. How many have periſhed for want of giving an Alarum to themſelves con<g ref="char:EOLhyphen"/>cerning
+<pb n="44" facs="tcp:153819:38"/>evils approaching. VVe read of a City that had enemies, and divers times ſome came in and told them the enemy was approaching; they finding theſe alarms falſe, at laſt proclaimed that none upon pain of death ſhould come with ſuch tidings: at laſt the enemy came indeed and took the Ci<g ref="char:EOLhyphen"/>ty, and this was ſaid of it, <hi>Silentium perdidit,</hi> ſilence hath deſtroy'd it. Thus it is with many who do not alarm their own ſouls concerning approach<g ref="char:EOLhyphen"/>ing difficulties; it may be ſaid, ſilence hath deſtroyed them.</p>
+            <p>Second general direction. He that will put caſes of difficulty to himſelf, and lay down ſetled reſolutions, muſt find his arguments to be above his difficulties. This is the great cauſe why Chriſtians ſtagger and waver in ſuffering times, becauſe they find their troubles and difficulties to be above their arguments. We read of <hi>Eliſha</hi>'s ſervant, when he ſaw the great hoſt of the <hi>Syrians,</hi> 2 <hi>Kings</hi> 6.15. He cried
+<pb n="45" facs="tcp:153819:38"/>out, <hi>Maſter, what ſhall we do?</hi> His troubles were above his arguments, and by reaſon of that he was at his wits end: but his Maſter <hi>Eliſha</hi>'s argu<g ref="char:EOLhyphen"/>ments were above his troubles, who anſwered, <hi>there are more with us than againſt us.</hi> He ſaw more power in God to help, than in the enemies to hurt. Thus Chriſtians muſt ſee their conſolations to be above their tribula<g ref="char:EOLhyphen"/>tions, and their incouragements to ſurmount all diſcouragements. They muſt be ſure to furniſh themſelves with arguments drawn from the con<g ref="char:EOLhyphen"/>ſideration of the truth, and goodneſs, and power, and all-ſufficiency, <hi>&amp;c.</hi> of God.</p>
+            <p n="2">2. The particular directions.</p>
+            <p>Firſt, Be not over-haſty in your re<g ref="char:EOLhyphen"/>ſolutions. Let there be a thorow and ſerious conſideration of difficulties be<g ref="char:EOLhyphen"/>fore you come to reſolution. Take the counſel of our Saviour, <hi>Luke</hi> 14.28. concerning building and going to war, there ſhould be a ſitting down firſt,
+<pb n="46" facs="tcp:153819:39"/>to conſider whether one is able to build ſuch a houſe, and to manage ſuch a war. This was <hi>Peters</hi> overſight, he was too haſty in his reſolution. Do as Porters do, ponder and weigh your burthen before you carry it.</p>
+            <p>Secondly, Be ſelf-denying. Pre<g ref="char:EOLhyphen"/>ſume not upon your own ſtrength. This was <hi>Peters</hi> failing. Go not forth in your own might, for in the might of the Lord ſhall every one be ſtrong. 1 <hi>Sam.</hi> 2.9. <hi>By ſtrength ſhall no man prevail.</hi> And in God <hi>Da<g ref="char:EOLhyphen"/>vid</hi> found his ſtrength, when he telleth you how it was with him in the day of trouble, <hi>Pſal.</hi> 73.26. <hi>My heart and my fleſh fail me, but God is the ſtrength of my heart.</hi>
+            </p>
+            <p>Thirdly, Get ſafe grounds for your reſolutions to be built upon; build not upon a ſandy foundation. Remember a good cauſe and a good conſcience will make a man reſolute. Let me tell you, it is an intereſt in God, and an intereſt in Chriſt, that will make us
+<pb n="47" facs="tcp:153819:39"/>reſolute in the midſt of the greateſt difficulties; as you may ſee, <hi>Pſal.</hi> 46.1. <hi>Pſal.</hi> 23.1. <hi>&amp;c.</hi>
+            </p>
+            <p>Fourthly, Eye and obſerve others in their reſolutions. Look back upon thoſe that have gone before you, and ſee what ſteps they walked in. Take our Saviour himſelf for an example, who telleth us, <hi>John</hi> 9.4. <hi>The night cometh when no man can work;</hi> and therefore took up this reſolution, that <hi>he would work while it was day.</hi> Put the ſame caſes to your ſelves as the Saints have done, and lay down ſuch reſolu<g ref="char:EOLhyphen"/>tions. It was the ſaying of <hi>Chryſostome</hi> when <hi>Eudoxia</hi> the Empreſs threat<g ref="char:EOLhyphen"/>ned him; What will ſhe do to me? Will ſhe ſaw me aſunder? I will re<g ref="char:EOLhyphen"/>member <hi>Iſaiah:</hi> Will ſhe caſt me in<g ref="char:EOLhyphen"/>to a fiery Furnace? I will remember the three Children: Will ſhe cut off my head? I will remember <hi>John</hi> the Baptiſt: Will ſhe ſtone me? I will remember it was the caſe of S. <hi>Ste<g ref="char:EOLhyphen"/>phen:</hi> Will ſhe baniſh me? I will
+<pb n="48" facs="tcp:153819:40"/>remember it was the caſe of S. <hi>John,</hi> who was baniſhed into the Iſle of <hi>Patmos.</hi>
+            </p>
+            <p n="5">5. Strive to find out anſwers to thoſe doubts and objections that will be moſt like to hinder reſolution. The Martyrs met with many in the day of their ſufferings <hi>(viz.)</hi> Is not life ſweet? will you deſtroy your ſelf: will you undo Wife and Children? will you obſtruct your own honour and preferment in this world? Thus Chriſtians ſhould make theſe and the like objections. This is to ſit down and conſider what it will coſt us to encounter with difficulties when they come, and will put us upon lay<g ref="char:EOLhyphen"/>ing down ſetled reſolutions againſt they come.</p>
+            <p>Sixthly, To make you reſolute when difficulties come, compare and weigh your diſadvantages with your advan<g ref="char:EOLhyphen"/>tages. When the day cometh when there is a day of ſuffering come upon you for bearing teſtimony to the Go<g ref="char:EOLhyphen"/>ſpel
+<pb n="49" facs="tcp:153819:40"/>of Chriſt, you ſhould conſider as what will be the loſs, ſo what will bee the gain. Thus the Apoſtle <hi>Paul</hi> did; to ſtrengthen his reſolution he weigh<g ref="char:EOLhyphen"/>ed both, 2 <hi>Cor.</hi> 4.17. Hee put his afflictions in one ſcale, and ſaith, they were light; hee put glory in the other ſcale, and found it exceeding weighty; &amp; ſo concludes, that his afflictions here were not to bee compared with glory hereafter. The ſame Apoſtle doth the ſame, <hi>Rom.</hi> 8.18. <hi>For I reckon, that the ſufferings of this preſent time, are not worthy to bee compared with the glory that ſhall be revealed in us.</hi> The word in the Original is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I com<g ref="char:EOLhyphen"/>pute.</hi> The Apoſtle had caſt up the ac<g ref="char:EOLhyphen"/>count of the loſs and gain that might come by ſuffering for the ſake of Chriſt; and hee puts this at the foot of the account, which is mentioned <hi>verſe</hi> 18. It is good for Chriſtians when they have forecaſt difficulties, to look and ſee what is beyond them. It is the expreſſion of the Pſalmiſt,
+<pb n="50" facs="tcp:153819:41"/>
+               <hi>Pſalm.</hi> 66.12. <hi>Thou broughteſt us through fire and water, but thou haſt brought us forth into a wealthy place.</hi> When you look upon fire and water before you, upon the putting of caſes of difficulty to your ſelves; by the eye of faith you may ſee a glorious and wealthy place beyond that. When you ſee a Mountain of difficulties in your way, remember there is a plea<g ref="char:EOLhyphen"/>ſant and delightful Valley beyond it. There are two things chriſtians ſhould conſider of.</p>
+            <list>
+               <item>Firſt, What is on the other ſide the evil of ſinning, and that is Hell.</item>
+               <item>Secondly, What is on the other ſide the evil of ſuffering, and that is Glory.</item>
+            </list>
+            <p>And therefore the Saints of God have choſen the evil of ſuffering be<g ref="char:EOLhyphen"/>fore the evil of ſinning. We read of the Prince of <hi>Condy,</hi> who being brought Priſoner to the <hi>Louvre</hi> in <hi>Paris</hi> that night that the Maſſacre was in <hi>France</hi>
+               <pb n="51" facs="tcp:153819:41"/>under the reign of <hi>Charles</hi> the ninth, hee had theſe three propoſals made to him; either to go to Maſſe, or to loſe his Head, or to ſuffer perpetual impriſonment: To the firſt hee an<g ref="char:EOLhyphen"/>ſwered, it was an evil of ſin, and hee would not chuſe that; for the two laſt, they were but evils of ſuffer<g ref="char:EOLhyphen"/>ing, and as for them hee did ſubmit himſelf to his Majeſties pleaſure. Chriſtians ſhould remember that the greateſt evils of ſuffering are to bee preferred before the leaſt evil of ſin<g ref="char:EOLhyphen"/>ning. It was the ſaying of <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi> when hee heard how the Em<g ref="char:EOLhyphen"/>preſs threatned him, <hi>Nil niſi peccatum timeo,</hi> I fear nothing but ſin. I ſhall cloſe this with the anſwer that a Fa<g ref="char:EOLhyphen"/>ther returned to an Emperour, who threatned him with impriſonment, if he conformed not to his way of wor<g ref="char:EOLhyphen"/>ſhip, <hi>Tu Carcerem, ille Gehennam,</hi> Thou threatneſt me with a Priſon, but, God threatneth me with Hell.</p>
+            <pb n="52" facs="tcp:153819:42"/>
+            <p> Seventhly, When you have layed down ſetled reſolutions, nouriſh them by prayer. Remember in whom your ſtrength lieth <hi>(viz.)</hi> in God. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> telleth us, <hi>Pſalm</hi> 73. when his heart and his fleſh failed him, God was the ſtrength of his heart. Be much in holding communion with him in whom your ſtrength lieth; That as <hi>David</hi> ſaith, <hi>Pſal.</hi> 121.1. <hi>I will lift up mine eyes to the Hills from whence cometh my help.</hi> Some think <hi>David</hi> in the ſudden looked to the Creature, <hi>(viz.)</hi> the Mountains by which <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> was made ſtrong; But he pre<g ref="char:EOLhyphen"/>ſently recalleth himſelf, and ſaith, <hi>verſe</hi> 2. <hi>My help cometh from the Lord.</hi> Chriſtians, you may reſolve up<g ref="char:EOLhyphen"/>on your putting caſes of difficulty to your ſelves, but remember, that your enablements to perform thoſe reſo<g ref="char:EOLhyphen"/>lutions lye in God, without whom you can do nothing. <hi>Solomon</hi> ſaith, <hi>Prov.</hi> 21.31. <hi>The Horſe is prepared for the day of battle, but ſalvation is of the
+<pb n="53" facs="tcp:153819:42"/>Lord.</hi> So Chriſtians may make prepa<g ref="char:EOLhyphen"/>ration for ſufferings by way of reſolu<g ref="char:EOLhyphen"/>tion, but they are to remember that ſtrength to perform them is from God. How many are there that have gone forth in their own ſtrength, that have fallen before the tempter, and returned aſhamed. Chriſtians, it is good for you when either you put ca<g ref="char:EOLhyphen"/>ſes of difficulty to your ſelves, or ſee difficulties approaching, to draw near to God, and to ſet the Lord alwaies before you. <hi>David</hi> as a Type of Chriſt, and the Apoſtle <hi>Peter</hi> in his Sermon, <hi>Acts</hi> 2.25. ſaith, hee ſpake it con<g ref="char:EOLhyphen"/>cerning Chriſt, <hi>I have ſet the Lord al<g ref="char:EOLhyphen"/>waies before me:</hi> This is not to be un<g ref="char:EOLhyphen"/>derſtood as if Chriſt did ſet the Lord alwaies before him to keep or over<g ref="char:EOLhyphen"/>awe his heart from ſin (hee was infi<g ref="char:EOLhyphen"/>nitely above that) but it was to ſup<g ref="char:EOLhyphen"/>port his heart in ſuffering. But to Chriſtians it is uſeful both waies, not only to keep us from ſin, but to help and ſupport us under ſufferings. It is
+<pb n="54" facs="tcp:153819:43"/>good than to hold conſtant commu<g ref="char:EOLhyphen"/>nion with that God in whom all our ſtrength lyeth.</p>
+            <p>Thus for the Directions.</p>
+            <p n="3">3. The Motives to move us to the duty of putting caſes of difficulty to our ſelves.</p>
+            <p>Firſt Motive, You ſhould all do it if you but look upon your ſelves as men. I told you before the expreſſi<g ref="char:EOLhyphen"/>on in <hi>Job,</hi> Job 5.7. <hi>Man is born to trouble.</hi> It was the ſaying of a Hea<g ref="char:EOLhyphen"/>then, <hi>I am a man, and therefore ſhall think nothing ſtrange to mee that may be<g ref="char:EOLhyphen"/>fal a man.</hi> Man is born to all ſorts of miſeries, to hunger, thirſt, naked<g ref="char:EOLhyphen"/>neſs, poverty, ſickneſs, and all ſorts of diſeaſes. The conſideration of this ſhould move all to forecaſt thoſe evils to which as men, they are all ſubject.</p>
+            <p>Secondly, Look upon your ſelves as Chriſtians, and as ſuch you muſt ex<g ref="char:EOLhyphen"/>pect to encounter with many difficul<g ref="char:EOLhyphen"/>ties. It is indeed a mercy when God is pleaſed to turn thoſe troubles to
+<pb n="55" facs="tcp:153819:43"/>which we are ſubject as men, into ſuf<g ref="char:EOLhyphen"/>ferings for his name ſake, and for righteouſneſs ſake. Remember, the Pſalmiſt telleth us, <hi>That many are the afflictions of the righteous.</hi> And the A<g ref="char:EOLhyphen"/>poſtle telleth us, <hi>that through many tri<g ref="char:EOLhyphen"/>bulations we muſt enter into the kingdome of Heaven.</hi>
+            </p>
+            <p>Third Motive is drawn from the conſideration of the mutability</p>
+            <p>Of
+<list>
+                  <item>Times.</item>
+                  <item>Conditions.</item>
+               </list>
+            </p>
+            <p>Firſt, Of times, they have their changes. All daies are not Halcyon daies; all ages are not golden.</p>
+            <p n="2">2. For conditions, they are change<g ref="char:EOLhyphen"/>able. How many are there, who with <hi>David,</hi> ſaid in their proſperity, Their Mountain was ſtrong, and could not bee moved? And as <hi>Babylon</hi> in the heighth of her Pomp, ſaid, <hi>I ſit as a Queen, and ſhall never bee removed.</hi> But Chriſtians, know all worldly con<g ref="char:EOLhyphen"/>ditions are mutable. There is an ex<g ref="char:EOLhyphen"/>preſſion of <hi>Solomon, Eccl.</hi> 7.14. That
+<pb n="56" facs="tcp:153819:44"/>God hath ſet proſperity and adverſity one over againſt the other. Thus God is pleaſed to ſet the Mountains and Valleys together, that when a man is ſet upon the top of a Mountain of Honour and wealth, and all that the World can beſtow upon him, yet then he hath a proſpect of a Valley before him, into which he knoweth not how ſoon hee may deſcend from his high Mountain. It is good for Chriſtians to do as <hi>Job</hi> did, who in the day of his proſperity thought of adverſity; and telleth us when his afflictions fell upon him, that <hi>the thing hee feared was come unto him.</hi> Hiſtory doth ſufficient<g ref="char:EOLhyphen"/>ly furniſh us with inſtances to make good this truth. I could tell you of an Emperours General <hi>(viz.) Belliſa<g ref="char:EOLhyphen"/>rius,</hi> who was reduced to ſuch pover<g ref="char:EOLhyphen"/>ty, that hee begged of Paſſengers for an half-penny. And of a Duke of <hi>Ex<g ref="char:EOLhyphen"/>eter,</hi> who married <hi>Edward</hi> the fourths Siſter, who followed the Duke of <hi>Branſwicks</hi> Coach, bare-foot and bare<g ref="char:EOLhyphen"/>legg'd
+<pb n="57" facs="tcp:153819:44"/>in the low Countries, begging, as <hi>Philip de Conines</hi> tells us, who was an eye witneſs. But theſe are known Stories, worn thread-bare by fre<g ref="char:EOLhyphen"/>quent relating. What need wee go farther for inſtances in this caſe than what our preſent times afford. We have ſeen ſervants on horſeback walk<g ref="char:EOLhyphen"/>ing on foot again; men underlayed with Honour, Power, Wealth; men that ſtood upon a Mountain ſo ſtrong in their own eyes, and of others too, that it ſeem'd unremovable; yet now where are they? How many that not long ſince were upon Mountains of Honour and worldly Proſperity, are now come down into the Valleys of poverty and adverſity. We have ſeen ſome trembling, who once made the Nations to tremble; and ſome under hatches who once ſate at the Helm. Some have ſeen thoſe ſtanding at the Bar, who once ſate upon the Bench; and thoſe lying at the mercy of others, who once ſeem'd to have us all at their
+<pb n="58" facs="tcp:153819:45"/>mercy: ſome have ſeen thoſe ſenten<g ref="char:EOLhyphen"/>ced to dye, who once had the power of life and death in their own hands, and did exerciſe it, not only over the lives of inferiour perſons, but of Kings and Nobles: All this and much more have wee ſeen in theſe our dayes, which ſufficiently ſpeaks the mutabi<g ref="char:EOLhyphen"/>lity and changeableneſſe of outward conditions. <hi>Seneca</hi> ſpeaks thus of a City conſum'd by fire, <hi>Unadies inter<g ref="char:EOLhyphen"/>est inter maximam Civitatem &amp; nul<g ref="char:EOLhyphen"/>lam,</hi> there was but the ſpace of one day between the greateſt City and no City. So how little a ſpace hath there been, between ſome mens being ho<g ref="char:EOLhyphen"/>nourable and contemptible, being high and being low; being great and being mean; being rich and being poor; being on the throne and ſitting on the dunghill; in a word, between their ſhining gloriouſly, and their be<g ref="char:EOLhyphen"/>ing hidden in obſcurity.</p>
+            <p>Fourthly, It is your wiſdome to put caſes of difficulty to your ſelves.
+<pb n="59" facs="tcp:153819:45"/>Our Saviour intimateth ſo much to us <hi>Luk.</hi> 14.28. where hee ſpeaketh of the wiſe builder, ſitting down and fore<g ref="char:EOLhyphen"/>caſting what it would coſt him, <hi>&amp;c.</hi> Thoſe that put to Sea, prepare for a ſtorm, bee the Sea at preſent never ſo calm. It is good for Chriſtians to put that queſtion to themſelves that the Lord puts to ſinners, <hi>Iſaiah</hi> 10.2. <hi>What will yee do in the day of viſitati<g ref="char:EOLhyphen"/>on?</hi> Your wiſdome in putting caſes of difficulty to your ſelves, will appear in two things, which it will put you upon.</p>
+            <list>
+               <item>1. Prevention of them.</item>
+               <item>2. Proviſion for them.</item>
+            </list>
+            <p>Firſt, Prevention of them. If there bee any way to prevent evils that are coming, it is by forecaſting and giving troubles the meeting. We know, that that falls from on high, hurts leaſt when the hand meets it, and by that means the force of the ſtroak is pre<g ref="char:EOLhyphen"/>vented. Thus putting caſes of diffi<g ref="char:EOLhyphen"/>culty to our ſelves, preventeth the
+<pb n="60" facs="tcp:153819:46"/>hurt the difficulty may do us by our catching at it before it falls with its full weight upon us. So forecaſting of difficulties puts us upon the uſe of thoſe ways &amp; means by which troubles and judgements have been averted: When <hi>Nineveh</hi> heard of approaching judgments, King and People fell to humble themſelves, and by that means prevented it: It is true, it was upon a denunciation of Judgement by a Pro<g ref="char:EOLhyphen"/>phet; but Chriſtians ſhould be Pro<g ref="char:EOLhyphen"/>phets to themſelves in the caſe of dif<g ref="char:EOLhyphen"/>ficulties, and ſhould ſay to themſelves as God doth to <hi>Iſrael, Amos</hi> 4.12. <hi>Prepare to meet thy God, O Iſrael.</hi> So putting caſes of difficulty to our ſelves will put us upon the way of preparing to meet God in the way of his Judge<g ref="char:EOLhyphen"/>ments, which is the way to prevent them: However this will make chri<g ref="char:EOLhyphen"/>ſtians provide hiding places, as <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> ſaith of the prudent man, that hee <hi>foreſeeth the evil, and hideth himſelf.</hi> This will make Chriſtians get into
+<pb n="61" facs="tcp:153819:46"/>their Chambers, and ſhut their doors about them, as the expreſſion is, <hi>Iſa.</hi> 26.20.</p>
+            <p>Secondly, Proviſion for them. This advantage you have, though you fall into troubles, yet you fall not under them. Evils foreſeen hurt leaſt; thoſe fall heavieſt that were never feared. It is reported of the Cockatrice, that if it ſee a man before the man ſee it, the man dieth; but if the man ſee it firſt, the Cockatrice dieth; for the truth of this I refer you to the judge<g ref="char:EOLhyphen"/>ment of Dr. <hi>Browne:</hi> but the moral holdeth true concerning difficulties and troubles: If they come upon us before we fore-ſee them, they undoe us; if we ſee them firſt, we are provi<g ref="char:EOLhyphen"/>ded for them. Every trouble and dif<g ref="char:EOLhyphen"/>ficulty that was not before thought of, findeth us unprovided, and ſo hath the advantage of us. Preparedneſs for an evil makes us valiant to encounter it: Fitneſs to die makes us not to fear death; whereas unfitneſs and unprepa<g ref="char:EOLhyphen"/>redneſs
+<pb n="62" facs="tcp:153819:47"/>doth. There was an Officer under General <hi>Vere,</hi> who had fought many Duels, and was looked upon as eminently valiant, who at the ſiege of a Town, in the Walls whereof a breach was made, being commanded to enter the breach with a party aſ<g ref="char:EOLhyphen"/>ſigned him, refuſed; the General cal<g ref="char:EOLhyphen"/>ling him by his name, asked him, whe<g ref="char:EOLhyphen"/>ther he were now turned coward? his anſwer was, <hi>He that enters that breach must die, and I am not fit to die.</hi> Now putting caſes of difficulty to our ſelves will put us upon making preparation for the evil and difficulty before it come, and ſo keep us from recoiling and giving back when it comes. There is an expreſſion in <hi>Jer.</hi> 14.19. <hi>We locked for peace and healing, and be<g ref="char:EOLhyphen"/>hold trouble.</hi> If they had looked for trouble, it may be they had found more peace and healing.</p>
+            <p>Fifth Motive. Putting caſes of dif<g ref="char:EOLhyphen"/>ficulty to your ſelves, doth not at all haſten the difficulty, but only fit you
+<pb n="63" facs="tcp:153819:47"/>for it when it cometh. There are ſome men that think they muſt preſently die if they once make their will, whereas doing that, doth but make more fit to die, not more ſubject to die. The truth is, we are never fit to live, until we are fit to die; and the way to enjoy the comfort of a good day, is to forecaſt evil days, and to reſolve what to do when they come.</p>
+            <p>Sixthly, It will help perſeverance. The reaſon why many great preten<g ref="char:EOLhyphen"/>ders to Religion have apoſtatized in the day of trouble and perſecution, was a <hi>non putaram,</hi> I never thought of this. Our Saviour telleth us, <hi>Mat.</hi> 13. of ſome that received the Goſpel, <hi>but when trouble and perſecution aroſe, they were offended.</hi> It is not probable (I had almoſt ſaid impoſſible) that a Chriſtian ſhould be a perſevering Chriſtian, who did not with the wiſe builder, <hi>Luke</hi> 14.28. ſit down and conſider what it would coſt him. The truth is, it is with ſome that profeſs
+<pb n="64" facs="tcp:153819:48"/>Religion, as it was with <hi>David</hi> when he put on <hi>Sauls</hi> Armour to go againſt <hi>Goliah,</hi> of which we read 1 <hi>Sam.</hi> 17.39. <hi>that he put it on, but he could not go in it, for he had not proved it.</hi> So will it be with all thoſe that imbrace the profeſſion of the Goſpel, and conſider not the difficulties that attend that profeſſion; they will be like the chil<g ref="char:EOLhyphen"/>dren of <hi>Ephraim,</hi> of whom I told you before, and of whom the Pſalmiſt ſpeaketh, <hi>Pſal.</hi> 78.9. <hi>Who being arm<g ref="char:EOLhyphen"/>ed, and carrying Bowes, turned their backs in the day of battel.</hi> Chriſtians, it is good to fore-caſt the tryals that your graces may meet with, eſpecially thoſe two of faith and patience. We read, <hi>Revel.</hi> 13.10. <hi>Here is the pati<g ref="char:EOLhyphen"/>ence and faith of the Saints.</hi> Theſe are the two hands by which you are to lay hold on eternal life, which is the A<g ref="char:EOLhyphen"/>poſtles counſel, 1 <hi>Tim.</hi> 6.12. <hi>Lay hold on eternal life.</hi> It is the great en<g ref="char:EOLhyphen"/>deavour of Satan to weaken both theſe hands, that Chriſtians may let go their hold.</p>
+            <pb n="65" facs="tcp:153819:48"/>
+            <p> Firſt, That of Faith, by errors, he<g ref="char:EOLhyphen"/>reſies, and falſe Doctrine.</p>
+            <p>Secondly, That of patience, by troubles, afflictions, and perſecutions.</p>
+            <p>Chriſtians, that you may hold faſt and ſtrengthen both theſe hands with which eternal life is to be layed hold of, and of which the Apoſtle ſpeak<g ref="char:EOLhyphen"/>eth, <hi>Heb.</hi> 6.12. <hi>Who by faith and pa<g ref="char:EOLhyphen"/>tience inherited the premiſes;</hi> It is good for you to fore-caſt thoſe difficulties that attend the exerciſing of both theſe graces.</p>
+            <p>Seventhly, Putting caſes of diffi<g ref="char:EOLhyphen"/>culty to our ſelves, will keep us hum<g ref="char:EOLhyphen"/>ble in proſperity; It will make us car<g ref="char:EOLhyphen"/>ry a low ſail when our outward con<g ref="char:EOLhyphen"/>dition ſeemeth beſt, and moſt proſpe<g ref="char:EOLhyphen"/>rous; it will keep us from ſaying as <hi>Babylon</hi> did in the day of her proſpe<g ref="char:EOLhyphen"/>rity, <hi>I ſit as a Queen, and ſhall never be in adverſity.</hi> And from concluding as <hi>David</hi> did, <hi>that in his proſperity he ſhould never be moved.</hi> It is good for Chriſtians to keep themſelves humble
+<pb n="66" facs="tcp:153819:49"/>when their worldly condition is high<g ref="char:EOLhyphen"/>eſt. And there is nothing that will more further it, then ſerious medita<g ref="char:EOLhyphen"/>tion of the mutability of the beſt of worldly conditions. We read of <hi>Job,</hi> that though he ſaid, <hi>Job</hi> 29.18. <hi>He ſhould die in his neſt,</hi> yet he telleth you withal, <hi>Job</hi> 3.25. <hi>The thing that I feared is come upon me:</hi> Which ſhew<g ref="char:EOLhyphen"/>eth, that when he was in the height of his proſperity this kept him humble; as you may ſee how he ſpeaketh of his humility in the day of his proſperity, <hi>Job</hi> 20.13. <hi>&amp;c.</hi> I ſpeak but briefly to this, having before ſpoke of the mutability of worldly conditions. <hi>So<g ref="char:EOLhyphen"/>lomon</hi> tells us, <hi>Prov.</hi> 31.30. <hi>Favour is deceitful.</hi> An Embaſſador highly favoured by his Prince, had this ſen<g ref="char:EOLhyphen"/>tence engraven on his VVatch, which he read every day, <hi>Favour may turn into disfavour, and grace into diſgrace.</hi>
+            </p>
+            <p>Eighth Motive. It will keep us from fretting at croſs providences; it will help us to ſuppreſs thoſe fumes of
+<pb n="67" facs="tcp:153819:49"/>paſſion which will be ready to ariſe and diſtemper us in a day of trouble and affliction; it will help us to poſ<g ref="char:EOLhyphen"/>ſeſs our ſouls in patience, and to pre<g ref="char:EOLhyphen"/>vent thoſe indecencies of paſſion that in a time of affliction may ſhame our Chriſtian profeſſion. He that puts ca<g ref="char:EOLhyphen"/>ſes of difficulty to himſelf, is one that proclaims a liberty to the Lord, to do with him what he will, and to deal with him as he pleaſeth, with a reſolution, that what pleaſeth God, ſhall pleaſe him; it will make him ſay with holy <hi>Bradford, Lord, I will bow, and thou ſhalt beat:</hi> It will bring a Chriſtian to ſuch a ful reſignation of himſelf to God, and to ſuch a ful ſub<g ref="char:EOLhyphen"/>miſſion of his will to Gods will, that nothing that fals out ſhal offend him, becauſe it being Gods will, it is his, his will being melted into Gods will. You have heard of <hi>Luther</hi>'s bold Pe<g ref="char:EOLhyphen"/>tition, <hi>Fiat voluntas mea,</hi> Let my will be done; but then preſently adds that which takes off all miſ-interpretation,
+<pb n="68" facs="tcp:153819:50"/>
+               <hi>mea quia tua,</hi> mine becauſe it is thine. It is ſaid of godly men, <hi>Pſa.</hi> 119.165. <hi>That nothing ſhall offend them.</hi> There is nothing that offends a godly man but what he ſeeth done againſt God, and wherewith God is offended; but nothing doth offend him in relation to Gods dealing with him: Let the di<g ref="char:EOLhyphen"/>ſpenſation be never ſo ſad, he can bid it welcome; welcome loſs of friends; welcome loſs of goods; welcome loſs of liberty; welcome death it ſelf. And upon this account he doth it, that whatſoever comes is of Gods ſending, and is what he expected, and there<g ref="char:EOLhyphen"/>fore bids all welcome; This (ſaith he) God ſends, and this is that I look<g ref="char:EOLhyphen"/>ed for, therefore welcom, and bleſſed be the Name of the Lord. That that makes men fret, and vex, and trouble themſelves when trouble falls on them, is this, that by theſe croſs pro<g ref="char:EOLhyphen"/>vidences their expectations are croſt. This they looked not for, this is that they dreamed not of; they looked
+<pb n="69" facs="tcp:153819:50"/>for good, but behold evil; they looked for peace, but behold trouble; they looked for light, but behold darkneſs. Let me tell you Chriſtians, this is one great thing that will help to quiet your ſpirits in a day of evil, that no<g ref="char:EOLhyphen"/>thing hath befallen you but what you foreſaw and expected. You read what anſwer <hi>Eliſha</hi> returned to the ſons of the Prophets at <hi>Bethel</hi> and <hi>Jericho,</hi> 2 <hi>Kings</hi> 2.3, 5. who ſaid, <hi>Knoweſt thou that the Lord will take away thy Maſter from thy head to day?</hi> His an<g ref="char:EOLhyphen"/>ſwer was, <hi>Yea, I know it, hold you your peace.</hi> So it ſhould be with Chriſtians when times of trouble come, they ſhould be ready to give this anſwer, when they are asked, did you know of this trouble and difficulty? did you know of theſe afflictions and perſecu<g ref="char:EOLhyphen"/>tions? yea we knew all this, and are at peace within our ſelves; therefore hold you your peace. VVe read of <hi>Latimer</hi>'s three Petitions: That God would bring the Lady <hi>Elizabeth</hi> to the
+<pb n="70" facs="tcp:153819:51"/>Crown. That God would once more reſtore the Goſpel to this Engliſh Nation: And that God would give him to ſeal the Goſpel with his blood. He was heard in all theſe; and the laſt ſpeaks what he did expect, that it would come to reſiſting to blood, and that he ſhould be called to ſeal the Goſpel with his blood. Let me tell you, as Chriſtians in a night of trou<g ref="char:EOLhyphen"/>ble eſpy day at a little hole by the eye of faith: ſo in a day and a ſeeming noon-tide of peace and proſperity, they foreſee a ſtormy night of trou<g ref="char:EOLhyphen"/>ble approaching, when it may be the cloud ariſing is but like <hi>Eliſha</hi>'s, no bigger than a mans hand.</p>
+            <p>Ninthly, Not putting caſes of dif<g ref="char:EOLhyphen"/>ficulty to our ſelves, will make us doubly miſerable, when the difficulty and affliction cometh. This is a dou<g ref="char:EOLhyphen"/>ble miſery, to fall into trouble, and to fall into trouble unthought of, and for which we are not at all provided. It is ſad at any time for a man to meet
+<pb n="71" facs="tcp:153819:51"/>with a ſtorm, but for a man to meet with a ſtorm when he is naked, and altogether unprovided for a ſtorm, this makes it ſad indeed. Remember Chriſtians, you are not to pray abſo<g ref="char:EOLhyphen"/>lutely againſt afflictions, but you may lawfully pray abſolutely againſt being ſurprized by them, ſo as to be made doubly miſerable. Let this be your prayer, that if ever God bring you into darkneſs, he would be a light a<g ref="char:EOLhyphen"/>bout you; if ever he put you into the Furnace, he would ſtand by while you melt. Chriſtians, pray that you may never be led into any temptation, out of which God will not again bring you; and that God would bring you into no affliction, under which he will not ſupport you.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
